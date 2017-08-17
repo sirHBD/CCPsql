@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsREQ" targetNamespace="http://tempuri.org/dsREQ.xsd" xmlns:mstns="http://tempuri.org/dsREQ.xsd" xmlns="http://tempuri.org/dsREQ.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="ConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString1 (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.CCP.My.MySettings.GlobalReference.Default.ConnectionString1" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="lstMatCostperMonthTableAdapter" GeneratorDataComponentClassName="lstMatCostperMonthTableAdapter" Name="lstMatCostperMonth" UserDataComponentName="lstMatCostperMonthTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString1 (MySettings)" DbObjectName="lstMatCostperMonth" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT idtblProdBud, txtProdDesc, txtPeriodDescriptor, txtMaterialDesc, decVolume, dblMatCost, TotMatCost, dblMatQty, fk_tblMaterial FROM lstMatCostperMonth WHERE (TotMatCost &gt; 0)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="idtblProdBud" DataSetColumn="idtblProdBud" />
+              <Mapping SourceColumn="txtProdDesc" DataSetColumn="txtProdDesc" />
+              <Mapping SourceColumn="txtPeriodDescriptor" DataSetColumn="txtPeriodDescriptor" />
+              <Mapping SourceColumn="txtMaterialDesc" DataSetColumn="txtMaterialDesc" />
+              <Mapping SourceColumn="decVolume" DataSetColumn="decVolume" />
+              <Mapping SourceColumn="dblMatCost" DataSetColumn="dblMatCost" />
+              <Mapping SourceColumn="TotMatCost" DataSetColumn="TotMatCost" />
+              <Mapping SourceColumn="dblMatQty" DataSetColumn="dblMatQty" />
+              <Mapping SourceColumn="fk_tblMaterial" DataSetColumn="fk_tblMaterial" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="ConnectionString1 (MySettings)" DbObjectName="lstMatCostperMonth" DbObjectType="View" FillMethodModifier="Public" FillMethodName="FillByDistinctMatID" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataBy2" GeneratorSourceName="FillByDistinctMatID" GetMethodModifier="Public" GetMethodName="GetDataBy2" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy2" UserSourceName="FillByDistinctMatID">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT DISTINCT fk_tblMaterial, txtMaterialDesc
+FROM  lstMatCostperMonth
+WHERE (TotMatCost &gt; 0)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="ConnectionString1 (MySettings)" DbObjectName="lstMatCostperMonth" DbObjectType="View" FillMethodModifier="Public" FillMethodName="FillByMat" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataBy" GeneratorSourceName="FillByMat" GetMethodModifier="Public" GetMethodName="GetDataBy" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="FillByMat">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT idtblProdBud, txtProdDesc, txtPeriodDescriptor, txtMaterialDesc, decVolume, dblMatCost, TotMatCost, dblMatQty, fk_tblMaterial FROM lstMatCostperMonth WHERE (TotMatCost &gt; 0) AND (txtMaterialDesc = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param1" ColumnName="txtMaterialDesc" DataSourceName="lstMatCostperMonth" DataTypeServer="DbType.StringFixedLength(255)" DbType="String" Direction="Input" ParameterName="txtMaterialDesc" Precision="0" ProviderType="WChar" Scale="0" Size="255" SourceColumn="txtMaterialDesc" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="ConnectionString1 (MySettings)" DbObjectName="lstMatCostperMonth" DbObjectType="View" FillMethodModifier="Public" FillMethodName="FillByMatReqPerMonth" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataBy1" GeneratorSourceName="FillByMatReqPerMonth" GetMethodModifier="Public" GetMethodName="GetDataBy1" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy1" UserSourceName="FillByMatReqPerMonth">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT fk_tblMaterial, txtMaterialDesc, txtPeriodDescriptor, SUM(decVolume) AS totSalesVol, SUM(TotMatCost) AS TotMatCost, SUM(dblMatQty) 
+               AS totMatReq, AVG(dblMatCost) AS AveMatCost
+FROM  lstMatCostperMonth
+GROUP BY fk_tblMaterial, txtMaterialDesc, txtPeriodDescriptor
+HAVING (SUM(TotMatCost) &gt; 0)
+ORDER BY fk_tblMaterial, txtPeriodDescriptor</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="lstLabCostperMonthTableAdapter" GeneratorDataComponentClassName="lstLabCostperMonthTableAdapter" Name="lstLabCostperMonth" UserDataComponentName="lstLabCostperMonthTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString1 (MySettings)" DbObjectName="lstLabCostperMonth" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        FK_tblProductid, txtPeriodDescriptor, decVolume, ActDesc, fk_tblDept, fk_tblElement, fk_tblActivity, txtValueDesc, dblFreq, dblValue, dblLabourCost, TotCost
+FROM            lstLabCostperMonth
+WHERE        (TotCost &gt; 0)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="FK_tblProductid" DataSetColumn="FK_tblProductid" />
+              <Mapping SourceColumn="txtPeriodDescriptor" DataSetColumn="txtPeriodDescriptor" />
+              <Mapping SourceColumn="decVolume" DataSetColumn="decVolume" />
+              <Mapping SourceColumn="txtValueDesc" DataSetColumn="txtValueDesc" />
+              <Mapping SourceColumn="dblFreq" DataSetColumn="dblFreq" />
+              <Mapping SourceColumn="dblValue" DataSetColumn="dblValue" />
+              <Mapping SourceColumn="dblLabourCost" DataSetColumn="dblLabourCost" />
+              <Mapping SourceColumn="TotCost" DataSetColumn="TotCost" />
+              <Mapping SourceColumn="ActDesc" DataSetColumn="ActDesc" />
+              <Mapping SourceColumn="fk_tblDept" DataSetColumn="fk_tblDept" />
+              <Mapping SourceColumn="fk_tblElement" DataSetColumn="fk_tblElement" />
+              <Mapping SourceColumn="fk_tblActivity" DataSetColumn="fk_tblActivity" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="ConnectionString1 (MySettings)" DbObjectName="lstLabCostperMonth" DbObjectType="View" FillMethodModifier="Public" FillMethodName="FillByDistinctActID" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataBy" GeneratorSourceName="FillByDistinctActID" GetMethodModifier="Public" GetMethodName="GetDataBy" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="FillByDistinctActID">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT DISTINCT fk_tblDept, fk_tblElement, fk_tblActivity,ActDesc
+FROM            lstLabCostperMonth
+WHERE        (TotCost &gt; 0)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsREQ" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsREQ" msprop:Generator_UserDSName="dsREQ">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="lstMatCostperMonth" msprop:Generator_TableClassName="lstMatCostperMonthDataTable" msprop:Generator_TableVarName="tablelstMatCostperMonth" msprop:Generator_RowChangedName="lstMatCostperMonthRowChanged" msprop:Generator_TablePropName="lstMatCostperMonth" msprop:Generator_RowDeletingName="lstMatCostperMonthRowDeleting" msprop:Generator_RowChangingName="lstMatCostperMonthRowChanging" msprop:Generator_RowEvHandlerName="lstMatCostperMonthRowChangeEventHandler" msprop:Generator_RowDeletedName="lstMatCostperMonthRowDeleted" msprop:Generator_RowClassName="lstMatCostperMonthRow" msprop:Generator_UserTableName="lstMatCostperMonth" msprop:Generator_RowEvArgName="lstMatCostperMonthRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="idtblProdBud" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnidtblProdBud" msprop:Generator_ColumnPropNameInRow="idtblProdBud" msprop:Generator_ColumnPropNameInTable="idtblProdBudColumn" msprop:Generator_UserColumnName="idtblProdBud" type="xs:int" minOccurs="0" />
+              <xs:element name="txtProdDesc" msprop:Generator_ColumnVarNameInTable="columntxtProdDesc" msprop:Generator_ColumnPropNameInRow="txtProdDesc" msprop:Generator_ColumnPropNameInTable="txtProdDescColumn" msprop:Generator_UserColumnName="txtProdDesc" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="txtPeriodDescriptor" msprop:Generator_ColumnVarNameInTable="columntxtPeriodDescriptor" msprop:Generator_ColumnPropNameInRow="txtPeriodDescriptor" msprop:Generator_ColumnPropNameInTable="txtPeriodDescriptorColumn" msprop:Generator_UserColumnName="txtPeriodDescriptor" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="txtMaterialDesc" msprop:Generator_ColumnVarNameInTable="columntxtMaterialDesc" msprop:Generator_ColumnPropNameInRow="txtMaterialDesc" msprop:Generator_ColumnPropNameInTable="txtMaterialDescColumn" msprop:Generator_UserColumnName="txtMaterialDesc" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="decVolume" msprop:Generator_ColumnVarNameInTable="columndecVolume" msprop:Generator_ColumnPropNameInRow="decVolume" msprop:Generator_ColumnPropNameInTable="decVolumeColumn" msprop:Generator_UserColumnName="decVolume" type="xs:double" minOccurs="0" />
+              <xs:element name="dblMatCost" msprop:Generator_ColumnVarNameInTable="columndblMatCost" msprop:Generator_ColumnPropNameInRow="dblMatCost" msprop:Generator_ColumnPropNameInTable="dblMatCostColumn" msprop:Generator_UserColumnName="dblMatCost" type="xs:double" minOccurs="0" />
+              <xs:element name="TotMatCost" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnTotMatCost" msprop:Generator_ColumnPropNameInRow="TotMatCost" msprop:Generator_ColumnPropNameInTable="TotMatCostColumn" msprop:Generator_UserColumnName="TotMatCost" type="xs:double" minOccurs="0" />
+              <xs:element name="dblMatQty" msprop:Generator_ColumnVarNameInTable="columndblMatQty" msprop:Generator_ColumnPropNameInRow="dblMatQty" msprop:Generator_ColumnPropNameInTable="dblMatQtyColumn" msprop:Generator_UserColumnName="dblMatQty" type="xs:double" minOccurs="0" />
+              <xs:element name="fk_tblMaterial" msprop:Generator_ColumnVarNameInTable="columnfk_tblMaterial" msprop:Generator_ColumnPropNameInRow="fk_tblMaterial" msprop:Generator_ColumnPropNameInTable="fk_tblMaterialColumn" msprop:Generator_UserColumnName="fk_tblMaterial" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="lstLabCostperMonth" msprop:Generator_TableClassName="lstLabCostperMonthDataTable" msprop:Generator_TableVarName="tablelstLabCostperMonth" msprop:Generator_RowChangedName="lstLabCostperMonthRowChanged" msprop:Generator_TablePropName="lstLabCostperMonth" msprop:Generator_RowDeletingName="lstLabCostperMonthRowDeleting" msprop:Generator_RowChangingName="lstLabCostperMonthRowChanging" msprop:Generator_RowEvHandlerName="lstLabCostperMonthRowChangeEventHandler" msprop:Generator_RowDeletedName="lstLabCostperMonthRowDeleted" msprop:Generator_RowClassName="lstLabCostperMonthRow" msprop:Generator_UserTableName="lstLabCostperMonth" msprop:Generator_RowEvArgName="lstLabCostperMonthRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FK_tblProductid" msprop:Generator_ColumnVarNameInTable="columnFK_tblProductid" msprop:Generator_ColumnPropNameInRow="FK_tblProductid" msprop:Generator_ColumnPropNameInTable="FK_tblProductidColumn" msprop:Generator_UserColumnName="FK_tblProductid" type="xs:int" minOccurs="0" />
+              <xs:element name="txtPeriodDescriptor" msprop:Generator_ColumnVarNameInTable="columntxtPeriodDescriptor" msprop:Generator_ColumnPropNameInRow="txtPeriodDescriptor" msprop:Generator_ColumnPropNameInTable="txtPeriodDescriptorColumn" msprop:Generator_UserColumnName="txtPeriodDescriptor" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="decVolume" msprop:Generator_ColumnVarNameInTable="columndecVolume" msprop:Generator_ColumnPropNameInRow="decVolume" msprop:Generator_ColumnPropNameInTable="decVolumeColumn" msprop:Generator_UserColumnName="decVolume" type="xs:double" minOccurs="0" />
+              <xs:element name="txtValueDesc" msprop:Generator_ColumnVarNameInTable="columntxtValueDesc" msprop:Generator_ColumnPropNameInRow="txtValueDesc" msprop:Generator_ColumnPropNameInTable="txtValueDescColumn" msprop:Generator_UserColumnName="txtValueDesc" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="dblFreq" msprop:Generator_ColumnVarNameInTable="columndblFreq" msprop:Generator_ColumnPropNameInRow="dblFreq" msprop:Generator_ColumnPropNameInTable="dblFreqColumn" msprop:Generator_UserColumnName="dblFreq" type="xs:double" minOccurs="0" />
+              <xs:element name="dblValue" msprop:Generator_ColumnVarNameInTable="columndblValue" msprop:Generator_ColumnPropNameInRow="dblValue" msprop:Generator_ColumnPropNameInTable="dblValueColumn" msprop:Generator_UserColumnName="dblValue" type="xs:double" minOccurs="0" />
+              <xs:element name="dblLabourCost" msprop:Generator_ColumnVarNameInTable="columndblLabourCost" msprop:Generator_ColumnPropNameInRow="dblLabourCost" msprop:Generator_ColumnPropNameInTable="dblLabourCostColumn" msprop:Generator_UserColumnName="dblLabourCost" type="xs:double" minOccurs="0" />
+              <xs:element name="TotCost" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnTotCost" msprop:Generator_ColumnPropNameInRow="TotCost" msprop:Generator_ColumnPropNameInTable="TotCostColumn" msprop:Generator_UserColumnName="TotCost" type="xs:double" minOccurs="0" />
+              <xs:element name="ActDesc" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnActDesc" msprop:Generator_ColumnPropNameInRow="ActDesc" msprop:Generator_ColumnPropNameInTable="ActDescColumn" msprop:Generator_UserColumnName="ActDesc" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fk_tblDept" msprop:Generator_ColumnVarNameInTable="columnfk_tblDept" msprop:Generator_ColumnPropNameInRow="fk_tblDept" msprop:Generator_ColumnPropNameInTable="fk_tblDeptColumn" msprop:Generator_UserColumnName="fk_tblDept" type="xs:int" minOccurs="0" />
+              <xs:element name="fk_tblElement" msprop:Generator_ColumnVarNameInTable="columnfk_tblElement" msprop:Generator_ColumnPropNameInRow="fk_tblElement" msprop:Generator_ColumnPropNameInTable="fk_tblElementColumn" msprop:Generator_UserColumnName="fk_tblElement" type="xs:int" minOccurs="0" />
+              <xs:element name="fk_tblActivity" msprop:Generator_ColumnVarNameInTable="columnfk_tblActivity" msprop:Generator_ColumnPropNameInRow="fk_tblActivity" msprop:Generator_ColumnPropNameInTable="fk_tblActivityColumn" msprop:Generator_UserColumnName="fk_tblActivity" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

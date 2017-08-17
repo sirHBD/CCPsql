@@ -1,0 +1,760 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+da_CostProj
+</name>
+</assembly>
+<members>
+<member name="P:da_CostProj.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:da_CostProj.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:da_CostProj.My.Resources.Resources.Gears">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="T:da_CostProj.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:da_CostProj.dsREQ.lstMatCostperMonthDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsREQ.lstLabCostperMonthDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsREQ.lstMatCostperMonthRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsREQ.lstLabCostperMonthRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsREQ.lstMatCostperMonthRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsREQ.lstLabCostperMonthRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsREQ">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:da_CostProj.dsREQTableAdapters.lstMatCostperMonthTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsREQTableAdapters.lstLabCostperMonthTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:da_CostProj.dsREQTableAdapters.TableAdapterManager.UpdateUpdatedRows(da_CostProj.dsREQ,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:da_CostProj.dsREQTableAdapters.TableAdapterManager.UpdateInsertedRows(da_CostProj.dsREQ,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:da_CostProj.dsREQTableAdapters.TableAdapterManager.UpdateDeletedRows(da_CostProj.dsREQ,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:da_CostProj.dsREQTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:da_CostProj.dsREQTableAdapters.TableAdapterManager.UpdateAll(da_CostProj.dsREQ)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:da_CostProj.dsREQTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:da_CostProj.dsREQTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:da_CostProj.dsREQTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.tblOHDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.tblOHDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstTotalsperMonthDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstLabCostperMonthDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstLabCostperProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstLabourLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstMatCostperMonthDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstMatCostperProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstMaterialLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstMarginsperProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.tblOHRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.tblOHDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstTotalsperMonthRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstLabCostperMonthRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstLabCostperProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstLabourLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstMatCostperMonthRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstMatCostperProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstMaterialLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstMarginsperProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.tblOHRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.tblOHDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstTotalsperMonthRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstLabCostperMonthRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstLabCostperProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstLabourLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstMatCostperMonthRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstMatCostperProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstMaterialLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsOHDB.lstMarginsperProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsOHDB">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:da_CostProj.dsOHDBTableAdapters.tblOHTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsOHDBTableAdapters.tblOHDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsOHDBTableAdapters.lstTotalsperMonthTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsOHDBTableAdapters.lstLabCostperMonthTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsOHDBTableAdapters.lstLabCostperProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsOHDBTableAdapters.lstLabourLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsOHDBTableAdapters.lstMatCostperMonthTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsOHDBTableAdapters.lstMatCostperProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsOHDBTableAdapters.lstMaterialLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsOHDBTableAdapters.lstMarginsperProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:da_CostProj.dsOHDBTableAdapters.TableAdapterManager.UpdateUpdatedRows(da_CostProj.dsOHDB,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:da_CostProj.dsOHDBTableAdapters.TableAdapterManager.UpdateInsertedRows(da_CostProj.dsOHDB,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:da_CostProj.dsOHDBTableAdapters.TableAdapterManager.UpdateDeletedRows(da_CostProj.dsOHDB,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:da_CostProj.dsOHDBTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:da_CostProj.dsOHDBTableAdapters.TableAdapterManager.UpdateAll(da_CostProj.dsOHDB)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:da_CostProj.dsOHDBTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:da_CostProj.dsOHDBTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:da_CostProj.dsOHDBTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:da_CostProj.dsActivityDB.tblDeptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsActivityDB.tblElementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsActivityDB.tblActivityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsActivityDB.tblDeptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsActivityDB.tblElementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsActivityDB.tblActivityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsActivityDB.tblDeptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsActivityDB.tblElementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsActivityDB.tblActivityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsActivityDB">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:da_CostProj.dsActivityDBTableAdapters.tblDeptTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsActivityDBTableAdapters.tblElementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsActivityDBTableAdapters.tblActivityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:da_CostProj.dsActivityDBTableAdapters.TableAdapterManager.UpdateUpdatedRows(da_CostProj.dsActivityDB,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:da_CostProj.dsActivityDBTableAdapters.TableAdapterManager.UpdateInsertedRows(da_CostProj.dsActivityDB,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:da_CostProj.dsActivityDBTableAdapters.TableAdapterManager.UpdateDeletedRows(da_CostProj.dsActivityDB,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:da_CostProj.dsActivityDBTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:da_CostProj.dsActivityDBTableAdapters.TableAdapterManager.UpdateAll(da_CostProj.dsActivityDB)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:da_CostProj.dsActivityDBTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:da_CostProj.dsActivityDBTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:da_CostProj.dsActivityDBTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:da_CostProj.MyProdDBDataSet.tblProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.MyProdDBDataSet.tblCoInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.MyProdDBDataSet.tblProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.MyProdDBDataSet.tblCoInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.MyProdDBDataSet.tblProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.MyProdDBDataSet.tblCoInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.MyProdDBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:da_CostProj.MyProdDBDataSetTableAdapters.tblProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.MyProdDBDataSetTableAdapters.tblCoInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:da_CostProj.MyProdDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(da_CostProj.MyProdDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:da_CostProj.MyProdDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(da_CostProj.MyProdDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:da_CostProj.MyProdDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(da_CostProj.MyProdDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:da_CostProj.MyProdDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:da_CostProj.MyProdDBDataSetTableAdapters.TableAdapterManager.UpdateAll(da_CostProj.MyProdDBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:da_CostProj.MyProdDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:da_CostProj.MyProdDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:da_CostProj.MyProdDBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:da_CostProj.dsCashFlow">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:da_CostProj.dsMatDB.tblProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsMatDB.tblMatLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsMatDB.tblMaterialDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsMatDB.tblProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsMatDB.tblMatLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsMatDB.tblMaterialRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsMatDB.tblProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsMatDB.tblMatLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsMatDB.tblMaterialRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsMatDB">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:da_CostProj.dsMatDBTableAdapters.tblProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsMatDBTableAdapters.tblMatLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsMatDBTableAdapters.tblMaterialTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:da_CostProj.dsMatDBTableAdapters.TableAdapterManager.UpdateUpdatedRows(da_CostProj.dsMatDB,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:da_CostProj.dsMatDBTableAdapters.TableAdapterManager.UpdateInsertedRows(da_CostProj.dsMatDB,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:da_CostProj.dsMatDBTableAdapters.TableAdapterManager.UpdateDeletedRows(da_CostProj.dsMatDB,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:da_CostProj.dsMatDBTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:da_CostProj.dsMatDBTableAdapters.TableAdapterManager.UpdateAll(da_CostProj.dsMatDB)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:da_CostProj.dsMatDBTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:da_CostProj.dsMatDBTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:da_CostProj.dsMatDBTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblCoInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblStaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblProdLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblElementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblActivityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblOperationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblMaterialDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblMatLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblOHDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.lstMaterialLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.lstLabourLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblProdBudDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.lstStaffGroupsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblCoInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblStaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblProdLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblElementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblActivityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblOperationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblMaterialRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblMatLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblOHRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.lstMaterialLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.lstLabourLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblProdBudRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.lstStaffGroupsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblCoInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblStaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblProdLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblElementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblActivityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblOperationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblMaterialRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblMatLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblOHRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.lstMaterialLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.lstLabourLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.tblProdBudRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsProdDB.lstStaffGroupsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:da_CostProj.dsProdDB">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:da_CostProj.dsProdDBTableAdapters.tblCoInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsProdDBTableAdapters.tblProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsProdDBTableAdapters.tblStaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsProdDBTableAdapters.tblProdLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsProdDBTableAdapters.tblElementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsProdDBTableAdapters.tblActivityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsProdDBTableAdapters.tblOperationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsProdDBTableAdapters.tblMaterialTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsProdDBTableAdapters.tblMatLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsProdDBTableAdapters.tblOHTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsProdDBTableAdapters.lstMaterialLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsProdDBTableAdapters.lstLabourLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsProdDBTableAdapters.tblProdBudTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:da_CostProj.dsProdDBTableAdapters.lstStaffGroupsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>

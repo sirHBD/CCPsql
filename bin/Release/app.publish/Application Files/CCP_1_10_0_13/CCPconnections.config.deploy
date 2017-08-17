@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<connectionStrings>
+  <add name="CCP.My.MySettings.ConnectionString1" connectionString="Data Source=DESKTOP-R67QVO2\SQLEXPRESS;Initial Catalog=CCP_Demo;Integrated Security = True"
+    providerName="System.Data.SqlClient" />
+</connectionStrings> 

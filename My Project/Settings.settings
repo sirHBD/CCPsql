@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SysName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Cost Coach Pro</Value>
+    </Setting>
+    <Setting Name="tmpOHRec" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2.36</Value>
+    </Setting>
+    <Setting Name="MyLocalConn" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SMTP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mail.smtp2go.com</Value>
+    </Setting>
+    <Setting Name="MailUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">barrydowling</Value>
+    </Setting>
+    <Setting Name="MailPwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dowhb412</Value>
+    </Setting>
+    <Setting Name="FromMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">info@democompany.co.za</Value>
+    </Setting>
+    <Setting Name="SaveFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Barry\Documents\Client Folders\3PD\</Value>
+    </Setting>
+    <Setting Name="SqlScript" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DBsetting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SQL server</Value>
+    </Setting>
+    <Setting Name="LocalSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=DESKTOP-R67QVO2\SQLEXPRESS;Initial Catalog=CCP;Persist Security Info=True;User ID=CCP;Password=Dowhb412</Value>
+    </Setting>
+    <Setting Name="ServerSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=DESKTOP-R67QVO2\SQLEXPRESS;Initial Catalog=CCP;Persist Security Info=True;User ID=CCP;Password=Dowhb412</Value>
+    </Setting>
+    <Setting Name="Hein" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=DESKTOP-R67QVO2\SQLEXPRESS;Initial Catalog=CCP;Integrated Security = True</Value>
+    </Setting>
+    <Setting Name="ConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=tcp:ccp.database.windows.net,1433;Initial Catalog=CCP_Demo;Persist Security Info=False;User ID=dowsoftware;Password=dowhb@412;MultipleActiveResultSets=False;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=tcp:ccp.database.windows.net,1433;Initial Catalog=CCP_Demo;Persist Security Info=False;User ID=dowsoftware;Password=dowhb@412;MultipleActiveResultSets=False;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,1516 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CCP
+</name>
+</assembly>
+<members>
+<member name="T:CCP.dsProduction.tblPODetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProduction.tblPOHeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProduction.lstPOHeaderDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProduction.lstMaterialLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProduction.lstLabourLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProduction.tblJCDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProduction.tblJCMaterialDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProduction.lstLabCostperProdandDeptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProduction.tblJCLabourDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProduction.lstJCMonitorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProduction.tblPODetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProduction.tblPOHeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProduction.lstPOHeaderDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProduction.lstMaterialLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProduction.lstLabourLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProduction.tblJCRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProduction.tblJCMaterialRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProduction.lstLabCostperProdandDeptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProduction.tblJCLabourRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProduction.lstJCMonitorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProduction.tblPODetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProduction.tblPOHeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProduction.lstPOHeaderDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProduction.lstMaterialLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProduction.lstLabourLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProduction.tblJCRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProduction.tblJCMaterialRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProduction.lstLabCostperProdandDeptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProduction.tblJCLabourRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProduction.lstJCMonitorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProduction">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CCP.dsProductionTableAdapters.tblPODetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProductionTableAdapters.tblPOHeaderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProductionTableAdapters.lstPOHeaderDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProductionTableAdapters.lstMaterialLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProductionTableAdapters.lstLabourLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProductionTableAdapters.tblJCTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProductionTableAdapters.tblJCMaterialTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProductionTableAdapters.lstLabCostperProdandDeptTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProductionTableAdapters.tblJCLabourTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProductionTableAdapters.lstJCMonitorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CCP.dsProductionTableAdapters.TableAdapterManager.UpdateUpdatedRows(CCP.dsProduction,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CCP.dsProductionTableAdapters.TableAdapterManager.UpdateInsertedRows(CCP.dsProduction,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CCP.dsProductionTableAdapters.TableAdapterManager.UpdateDeletedRows(CCP.dsProduction,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CCP.dsProductionTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CCP.dsProductionTableAdapters.TableAdapterManager.UpdateAll(CCP.dsProduction)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CCP.dsProductionTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CCP.dsProductionTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CCP.dsProductionTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:CCP.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CCP.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:CCP.My.Resources.Resources._New">
+	<summary>
+  Looks up a localized string similar to Version 26
+	1.	Bug fix
+		1.1		In product magrins show material when material is dobule clicked also labour.
+		1.2		Make the overhead allocation field editable when creating a new company
+		1.3		When creating a quote from costing the customer and the quantity will now pull through
+	2.	Create production order facility.
+	3.	Create job card facility.
+	
+
+Version 25
+	1.	Solve the change database problem
+	2.	Handle issues regarding 0 VAT charges
+	3.	Create ability to copy a product to a new product in  [rest of string was truncated]";.
+</summary>
+</member><member name="P:CCP.My.Resources.Resources.CCPBigLogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CCP.My.Resources.Resources.edit_add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CCP.My.Resources.Resources.Gears1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CCP.My.Resources.Resources.large_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CCP.My.Resources.Resources.ManyCans">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CCP.My.Resources.Resources.mini_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CCP.My.Resources.Resources.Mouse">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CCP.My.Resources.Resources.people">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CCP.My.Resources.Resources.SqlScript_1">
+	<summary>
+  Looks up a localized string similar to USE [CCP]
+GO
+
+/****** Object:  View [dbo].[lstReceiptDeposit]    Script Date: 23/03/2017 9:50:01 AM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE VIEW [dbo].[lstReceiptDeposit]
+AS
+SELECT        FK_tblQuotHeader, fk_tblInvoiceHeader, txtReceiptType, MAX(dteReceiptDate) AS ReceiptDate, SUM(dblAmount) AS ReceiptAmount
+FROM            dbo.tblReceipts
+WHERE        (txtReceiptType = N'Deposit')
+GROUP BY FK_tblQuotHeader, fk_tblInvoiceHeader, txtReceiptType
+
+GO
+
+USE [CCP]
+GO [rest of string was truncated]";.
+</summary>
+</member><member name="P:CCP.My.Resources.Resources.templateMaterial">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:CCP.My.Resources.Resources.TemplateProduct">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:CCP.My.Resources.Resources.templateStaff">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="T:CCP.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblStaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblElementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblOperationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblMaterialDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblMatLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblOHDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.lstMaterialLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.lstLabourLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblProdBudDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.lstStaffGroupsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblCoInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblActivityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblJobTitleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblCustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblProdLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.lstComponentLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblComponentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.lstComponentLabourDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblStaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblElementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblOperationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblMaterialRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblMatLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblOHRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.lstMaterialLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.lstLabourLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblProdBudRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.lstStaffGroupsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblCoInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblActivityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblJobTitleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblCustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblProdLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.lstComponentLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblComponentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.lstComponentLabourRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsProdDB.tblProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.tblStaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.tblElementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.tblOperationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.tblMaterialRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.tblMatLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.tblOHRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.lstMaterialLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.lstLabourLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.tblProdBudRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.lstStaffGroupsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.tblCoInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.tblActivityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.tblJobTitleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.tblCustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.tblProdLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.lstComponentLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.tblComponentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB.lstComponentLabourRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsProdDB">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.tblProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.tblStaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.tblElementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.tblOperationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.tblMaterialTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.tblMatLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.tblOHTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.lstMaterialLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.lstLabourLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.tblProdBudTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.lstStaffGroupsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.tblCoInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.tblActivityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.tblJobTitleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.tblCustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.tblProdLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.lstComponentLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.tblComponentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsProdDBTableAdapters.lstComponentLabourTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstTotalsperMonthDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstLabCostperMonthDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstLabCostperProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstLabourLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstMatCostperMonthDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstMatCostperProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstMaterialLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstMarginsperProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsOHDB.tblCoInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsOHDB.tblOHDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstlabCostperProduct_TotalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstTotalsperMonthRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstLabCostperMonthRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstLabCostperProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstLabourLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstMatCostperMonthRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstMatCostperProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstMaterialLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstMarginsperProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsOHDB.tblCoInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsOHDB.tblOHRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstlabCostperProduct_TotalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsOHDB.lstTotalsperMonthRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsOHDB.lstLabCostperMonthRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsOHDB.lstLabCostperProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsOHDB.lstLabourLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsOHDB.lstMatCostperMonthRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsOHDB.lstMatCostperProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsOHDB.lstMaterialLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsOHDB.lstMarginsperProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsOHDB.tblCoInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsOHDB.tblOHRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsOHDB.lstlabCostperProduct_TotalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsOHDB">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CCP.dsOHDBTableAdapters.lstTotalsperMonthTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsOHDBTableAdapters.lstLabCostperMonthTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsOHDBTableAdapters.lstLabCostperProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsOHDBTableAdapters.lstLabourLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsOHDBTableAdapters.lstMatCostperMonthTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsOHDBTableAdapters.lstMatCostperProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsOHDBTableAdapters.lstMaterialLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsOHDBTableAdapters.lstMarginsperProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsOHDBTableAdapters.tblCoInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsOHDBTableAdapters.tblOHTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsOHDBTableAdapters.lstlabCostperProduct_TotalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CCP.dsOHDBTableAdapters.TableAdapterManager.UpdateUpdatedRows(CCP.dsOHDB,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CCP.dsOHDBTableAdapters.TableAdapterManager.UpdateInsertedRows(CCP.dsOHDB,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CCP.dsOHDBTableAdapters.TableAdapterManager.UpdateDeletedRows(CCP.dsOHDB,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CCP.dsOHDBTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CCP.dsOHDBTableAdapters.TableAdapterManager.UpdateAll(CCP.dsOHDB)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CCP.dsOHDBTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CCP.dsOHDBTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CCP.dsOHDBTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.tblProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.tblCoInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.lstQuoteHeaderDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.lstReceiptsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.lstInvoiceHeaderDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.lstPOHeaderDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.lstJCDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.tblJCMaterialDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.tblJCLabourDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.tblProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.tblCoInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.lstQuoteHeaderDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.lstReceiptsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.lstInvoiceHeaderDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.lstPOHeaderDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.lstJCDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.tblJCMaterialRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.tblJCLabourRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.tblProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.tblCoInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.lstQuoteHeaderDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.lstReceiptsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.lstInvoiceHeaderDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.lstPOHeaderDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.lstJCDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.tblJCMaterialRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet.tblJCLabourRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.MyProdDBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSetTableAdapters.tblProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSetTableAdapters.tblCoInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSetTableAdapters.lstQuoteHeaderDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSetTableAdapters.lstReceiptsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSetTableAdapters.lstInvoiceHeaderDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSetTableAdapters.lstPOHeaderDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSetTableAdapters.lstJCDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSetTableAdapters.tblJCMaterialTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSetTableAdapters.tblJCLabourTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CCP.MyProdDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CCP.MyProdDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CCP.MyProdDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CCP.MyProdDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CCP.MyProdDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CCP.MyProdDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CCP.MyProdDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CCP.MyProdDBDataSetTableAdapters.TableAdapterManager.UpdateAll(CCP.MyProdDBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CCP.MyProdDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CCP.MyProdDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CCP.MyProdDBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:CCP.dsMatDB.tblProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsMatDB.tblMatLinkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsMatDB.tblMaterialDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsMatDB.tblComponentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsMatDB.tblProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsMatDB.tblMatLinkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsMatDB.tblMaterialRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsMatDB.tblComponentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsMatDB.tblProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsMatDB.tblMatLinkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsMatDB.tblMaterialRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsMatDB.tblComponentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsMatDB">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CCP.dsMatDBTableAdapters.tblProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsMatDBTableAdapters.tblMatLinkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsMatDBTableAdapters.tblMaterialTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsMatDBTableAdapters.tblComponentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CCP.dsMatDBTableAdapters.TableAdapterManager.UpdateUpdatedRows(CCP.dsMatDB,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CCP.dsMatDBTableAdapters.TableAdapterManager.UpdateInsertedRows(CCP.dsMatDB,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CCP.dsMatDBTableAdapters.TableAdapterManager.UpdateDeletedRows(CCP.dsMatDB,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CCP.dsMatDBTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CCP.dsMatDBTableAdapters.TableAdapterManager.UpdateAll(CCP.dsMatDB)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CCP.dsMatDBTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CCP.dsMatDBTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CCP.dsMatDBTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:CCP.dsAccounting.tblCustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsAccounting.lstMatCostperProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsAccounting.lstLabCostperProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblCoInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblOHDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblQuoteDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblQuoteHeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsAccounting.lstQuoteHeadersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblMaterialDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblReceiptsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tbllnvoiceDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblInvoiceHeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsAccounting.lstInvoiceHeadersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblCustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsAccounting.lstMatCostperProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsAccounting.lstLabCostperProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblCoInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblOHRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblQuoteDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblQuoteHeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsAccounting.lstQuoteHeadersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblMaterialRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblReceiptsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tbllnvoiceDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblInvoiceHeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsAccounting.lstInvoiceHeadersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsAccounting.tblCustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsAccounting.tblProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsAccounting.lstMatCostperProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsAccounting.lstLabCostperProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsAccounting.tblCoInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsAccounting.tblOHRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsAccounting.tblQuoteDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsAccounting.tblQuoteHeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsAccounting.lstQuoteHeadersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsAccounting.tblMaterialRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsAccounting.tblReceiptsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsAccounting.tbllnvoiceDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsAccounting.tblInvoiceHeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsAccounting.lstInvoiceHeadersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsAccounting">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.tblCustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.tblProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.lstMatCostperProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.lstLabCostperProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.tblCoInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.tblOHTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.tblQuoteDetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.tblQuoteHeaderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.lstQuoteHeadersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.tblMaterialTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.tblReceiptsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.tbllnvoiceDetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.tblInvoiceHeaderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.lstInvoiceHeadersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CCP.dsAccountingTableAdapters.TableAdapterManager.UpdateUpdatedRows(CCP.dsAccounting,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CCP.dsAccountingTableAdapters.TableAdapterManager.UpdateInsertedRows(CCP.dsAccounting,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CCP.dsAccountingTableAdapters.TableAdapterManager.UpdateDeletedRows(CCP.dsAccounting,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CCP.dsAccountingTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CCP.dsAccountingTableAdapters.TableAdapterManager.UpdateAll(CCP.dsAccounting)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CCP.dsAccountingTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:CCP.dsActivityDB.tblDeptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsActivityDB.tblElementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsActivityDB.tblActivityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsActivityDB.tblDeptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsActivityDB.tblElementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsActivityDB.tblActivityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsActivityDB.tblDeptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsActivityDB.tblElementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsActivityDB.tblActivityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsActivityDB">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CCP.dsActivityDBTableAdapters.tblDeptTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsActivityDBTableAdapters.tblElementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsActivityDBTableAdapters.tblActivityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CCP.dsActivityDBTableAdapters.TableAdapterManager.UpdateUpdatedRows(CCP.dsActivityDB,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CCP.dsActivityDBTableAdapters.TableAdapterManager.UpdateInsertedRows(CCP.dsActivityDB,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CCP.dsActivityDBTableAdapters.TableAdapterManager.UpdateDeletedRows(CCP.dsActivityDB,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CCP.dsActivityDBTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CCP.dsActivityDBTableAdapters.TableAdapterManager.UpdateAll(CCP.dsActivityDB)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CCP.dsActivityDBTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CCP.dsActivityDBTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CCP.dsActivityDBTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:CCP.dsREQ.lstMatCostperMonthDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsREQ.lstLabCostperMonthDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CCP.dsREQ.lstMatCostperMonthRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsREQ.lstLabCostperMonthRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CCP.dsREQ.lstMatCostperMonthRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsREQ.lstLabCostperMonthRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CCP.dsREQ">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CCP.dsREQTableAdapters.lstMatCostperMonthTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CCP.dsREQTableAdapters.lstLabCostperMonthTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CCP.dsREQTableAdapters.TableAdapterManager.UpdateUpdatedRows(CCP.dsREQ,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CCP.dsREQTableAdapters.TableAdapterManager.UpdateInsertedRows(CCP.dsREQ,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CCP.dsREQTableAdapters.TableAdapterManager.UpdateDeletedRows(CCP.dsREQ,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CCP.dsREQTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CCP.dsREQTableAdapters.TableAdapterManager.UpdateAll(CCP.dsREQ)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CCP.dsREQTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CCP.dsREQTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CCP.dsREQTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

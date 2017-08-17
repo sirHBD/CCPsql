@@ -1,0 +1,407 @@
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\bin\Debug\da_CostProj.exe.config
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.exe
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.xml
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.pdb
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\bin\Debug\da_CostProj.exe
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\bin\Debug\da_CostProj.pdb
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\bin\Debug\da_CostProj.xml
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.Form1.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmCoParms.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmProduct.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmStaff.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.Resources.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmCoParms.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmLabourAdd.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOH.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputPerMonth.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmProduct.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmStaff.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.Resources.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Debug\Resources\edit_add.png
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Debug\da_CostProj.exe.config
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Debug\da_CostProj.exe
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Debug\da_CostProj.pdb
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Debug\da_CostProj.xml
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.exe
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.xml
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.pdb
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\Interop.ADODB.dll
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\Interop.ADOX.dll
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Debug\Interop.ADODB.dll
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Debug\Interop.ADOX.dll
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Release\da_CostProj.exe.config
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Release\Resources\edit_add.png
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Release\da_CostProj.pdb
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Release\da_CostProj.xml
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Release\Interop.ADODB.dll
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Release\Interop.ADOX.dll
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Release\MyProdDB.accdb
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Release\DataGridViewAutoFilter.dll
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Release\DataGridViewAutoFilter.pdb
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Release\DataGridViewAutoFilter.xml
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Release\Interop.MSDataReportLib.dll
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\bin\Release\Interop.StdFormat.dll
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\Interop.MSDataReportLib.dll
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\Interop.StdFormat.dll
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaDeptEleAct.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaLabourCopy.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaLabourLink.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaMarginPopup.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaMatAdd.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaMatLink.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaStaffAdd.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.dMaterialCopy.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.dProductAdd.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.ApplicationSplashScreen.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.ApplicationStartupForm.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputCF.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputReq.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutput_ProdMar.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmMaterial.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmQuick.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmRepViewer.resources
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\Barry Dowling\My Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\RdlCompile.compiled
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.exe
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.xml
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.pdb
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\Interop.ADODB.dll
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\Interop.ADOX.dll
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.vbproj.ResolveComReference.cache
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaDeptEleAct.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaLabourCopy.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaLabourLink.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaMarginPopup.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaMatAdd.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaMatLink.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaPopUpMat.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaStaffAdd.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.dMaterialCopy.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.dProductAdd.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.ApplicationSplashScreen.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.ApplicationStartupForm.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmAccountingMain.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputReq_Adj.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputPerMonth_Adj.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmChangeDB.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputCF.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputReq.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutput_ProdMar.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmMaterial.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmCoParms.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmLabourAdd.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOH.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputPerMonth.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmProduct.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmQQGraph.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmQuick.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmRepViewer.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmStaff.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmTestFolders.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.Resources.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.MyAbout.resources
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\RdlCompile.cache
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\RdlCompile.compiled
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.TrustInfo.xml
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.exe.manifest
+C:\Users\Barry\Documents\Visual Studio 2010\Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.application
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\ResolveAssemblyReference.cache
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\Interop.ADODB.dll
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\Interop.ADOX.dll
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.vbproj.ResolveComReference.cache
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaDeptEleAct.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaLabourCopy.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaLabourLink.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaMarginPopup.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaMatAdd.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaMatLink.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaPopUpMat.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaStaffAdd.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.dMaterialCopy.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.dProductAdd.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.ApplicationSplashScreen.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.ApplicationStartupForm.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmAccountingMain.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputReq_Adj.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputPerMonth_Adj.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmChangeDB.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputCF.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputReq.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutput_ProdMar.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmMaterial.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmCoParms.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmLabourAdd.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOH.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputPerMonth.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmProduct.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmQQGraph.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmQuick.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmRepViewer.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmStaff.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmTestFolders.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.Resources.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.MyAbout.resources
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\GenerateResource.read.1.tlog
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\GenerateResource.write.1.tlog
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\RdlCompile.cache
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\RdlCompile.compiled
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.TrustInfo.xml
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.exe.manifest
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.application
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.exe
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.xml
+C:\DA_Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.pdb
+C:\bin\Release\Tutorial.txt
+C:\bin\Release\Resources\edit_add.png
+C:\bin\Release\da_CostProj.exe.config
+C:\bin\Release\da_CostProj.exe.manifest
+C:\bin\Release\da_CostProj.application
+C:\bin\Release\da_CostProj.exe
+C:\bin\Release\da_CostProj.pdb
+C:\bin\Release\da_CostProj.xml
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\Interop.ADODB.dll
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\Interop.ADOX.dll
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.vbproj.ResolveComReference.cache
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaDeptEleAct.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaLabourCopy.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaLabourLink.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaMarginPopup.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaMatAdd.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaMatLink.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaPopUpMat.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaStaffAdd.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.dMaterialCopy.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.dProductAdd.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.ApplicationSplashScreen.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.ApplicationStartupForm.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaFabric.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.diaNotes.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmAccountingMain.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputReq_Adj.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputPerMonth_Adj.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmChangeDB.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputCF.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputReq.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutput_ProdMar.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmMaterial.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmCoParms.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmLabourAdd.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOH.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmOutputPerMonth.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmProduct.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmQQGraph.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmQuick.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmRepViewer.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmStaff.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.frmTestFolders.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.Resources.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.MyAbout.resources
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\RdlCompile.cache
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\RdlCompile.compiled
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.TrustInfo.xml
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.exe.manifest
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.application
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.exe
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.xml
+C:\Users\Public\Documents\Visual Studio Projects\da_Cost\da_CostProj\obj\Debug\da_CostProj.pdb
+C:\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\Tutorial.txt
+C:\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\Resources\edit_add.png
+C:\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\da_CostProj.exe.config
+C:\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\da_CostProj.exe.manifest
+C:\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\da_CostProj.application
+C:\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\da_CostProj.exe
+C:\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\da_CostProj.pdb
+C:\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\da_CostProj.xml
+C:\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\DataGridViewAutoFilter.dll
+C:\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\DataGridViewAutoFilter.pdb
+C:\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\DataGridViewAutoFilter.xml
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\Interop.ADODB.dll
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\Interop.ADOX.dll
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.vbproj.ResolveComReference.cache
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaDeptEleAct.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaLabourCopy.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaLabourLink.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaMarginPopup.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaMatAdd.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaMatLink.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaPopUpMat.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaStaffAdd.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.dMaterialCopy.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.dProductAdd.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.ApplicationSplashScreen.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.ApplicationStartupForm.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaFabric.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaNotes.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmAccountingMain.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmOutputReq_Adj.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmOutputPerMonth_Adj.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmChangeDB.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmOutputCF.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmOutputReq.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmOutput_ProdMar.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmMaterial.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmCoParms.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmLabourAdd.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmOH.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmOutputPerMonth.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmProduct.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmQQGraph.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmQuick.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmRepViewer.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmStaff.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmTestFolders.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.Resources.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.MyAbout.resources
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\RdlCompile.cache
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\RdlCompile.compiled
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.TrustInfo.xml
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.exe.manifest
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.application
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.exe
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.xml
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.pdb
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.vbprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.vbproj.GenerateResource.Cache
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\da_CostProj.exe.config
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\Interop.ADODB.dll
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\Interop.ADOX.dll
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.vbproj.ResolveComReference.cache
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.exe
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.xml
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.pdb
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\Tutorial.txt
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\Resources\edit_add.png
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\da_CostProj.exe.manifest
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\da_CostProj.application
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\da_CostProj.exe
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\da_CostProj.pdb
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\da_CostProj.xml
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\DataGridViewAutoFilter.dll
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\DataGridViewAutoFilter.pdb
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\bin\Release\DataGridViewAutoFilter.xml
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.vbprojResolveAssemblyReference.cache
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaDeptEleAct.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaLabourCopy.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaLabourLink.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaMarginPopup.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaMatAdd.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaMatLink.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaPopUpMat.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaStaffAdd.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.dMaterialCopy.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.dProductAdd.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.ApplicationSplashScreen.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.ApplicationStartupForm.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaFabric.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.diaNotes.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmAccountingMain.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmOutputReq_Adj.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmOutputPerMonth_Adj.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmChangeDB.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmOutputCF.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmOutputReq.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmOutput_ProdMar.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmMaterial.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmCoParms.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmLabourAdd.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmOH.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmOutputPerMonth.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmProduct.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmQQGraph.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmQuick.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmRepViewer.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmStaff.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.frmTestFolders.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.Resources.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.MyAbout.resources
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.vbproj.GenerateResource.Cache
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\RdlCompile.cache
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\RdlCompile.compiled
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.TrustInfo.xml
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.exe.manifest
+\\DOWLINGSERVER\Users\Public\Documents\Visual Studio Projects\CCP\obj\Debug\da_CostProj.application
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\bin\Release\Tutorial.txt
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\bin\Release\Resources\edit_add.png
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\bin\Release\da_CostProj.exe.config
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\bin\Release\da_CostProj.exe.manifest
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\bin\Release\da_CostProj.application
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\bin\Release\da_CostProj.pdb
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\bin\Release\da_CostProj.xml
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\Interop.ADOX.dll
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.vbproj.ResolveComReference.cache
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.diaJobTitle.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.diaCustomerAdd.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.diaTmpProduct.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.diaWhatNew.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmCustomer.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.diaDeptEleAct.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.diaLabourCopy.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.diaLabourLink.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.diaMarginPopup.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.diaMatAdd.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.diaMatLink.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.diaPopUpMat.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.diaStaffAdd.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.dMaterialCopy.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.dProductAdd.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.ApplicationSplashScreen.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.ApplicationStartupForm.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.diaFabric.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.diaNotes.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmAccountingMain.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmOutputReq_Adj.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmOutputPerMonth_Adj.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmChangeDB.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmOutputCF.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmOutputReq.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmOutput_ProdMar.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmMaterial.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmCoParms.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmLabourAdd.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmOH.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmOutputPerMonth.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmProduct.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmQQGraph.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmQuick.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmRepViewer.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmStaff.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmTestFolders.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmViewProduct.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.Resources.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.MyAbout.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.vbproj.GenerateResource.Cache
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.exe.licenses
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\RdlCompile.cache
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\RdlCompile.compiled
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.TrustInfo.xml
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.exe.manifest
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.application
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.exe
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.xml
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.pdb
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmProduction.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.frmRePrint.resources
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\bin\Release\da_CostProj.exe
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCP\CCP\obj\Debug\da_CostProj.vbprojResolveAssemblyReference.cache
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCPsql\bin\Release\da_CostProj.exe.config
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCPsql\obj\Debug\Interop.ADOX.dll
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCPsql\obj\Debug\da_CostProj.vbproj.ResolveComReference.cache
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCPsql\obj\Debug\da_CostProj.exe
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCPsql\obj\Debug\da_CostProj.xml
+C:\Users\Barry\Dropbox\Visual Studio Projects\CCPsql\obj\Debug\da_CostProj.pdb

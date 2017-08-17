@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>ftp://41.76.208.119/Software/CCP_SQL/|ftp://41.76.208.119//dowsorey/dowsoftware.co.za/wwwroot/Software/CCP_SQL/|ftp://41.76.208.119/Software/CCP/|http://www.dowsoftware.co.za/Software/CCP/|http://DowSoftware.co.za/home/dowsorey/public_html/Software/CCP/</PublishUrlHistory>
+    <InstallUrlHistory>http://www.dowsoftware.co.za/Software/CCP_SQL/|http://www.dowsoftware.co.za/dowsorey/dowsoftware.co.za/wwwroot/Software/CCP_SQL/|http://www.dowsoftware.co.za/Software/CCP/|http://www.dowsoftware.co.za/Software/iTooth3/|\\DowlingServer\Barry\DropBox\CCP\Installation\</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>http://www.dowsoftware.co.za/Software/CCP_SQL/|http://www.dowsoftware.co.za/Software/CCP/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ErrorReportUrlHistory />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <EnableSQLServerDebugging>false</EnableSQLServerDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+    <EnableSQLServerDebugging>false</EnableSQLServerDebugging>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

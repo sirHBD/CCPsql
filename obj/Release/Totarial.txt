@@ -1,0 +1,1335 @@
+TUTORIAL												
+
+1.	GENERAL INTRODUCTION											
+												
+	So much of  the success  of  a  business  has to  do with  MAKING THE RIGHT DECISION  for the business. Making these											
+	decisions  effectively   are  very  difficult  unless  one  has   INFORMATION  at  hand.  This  information  will  vary  from  the 											
+	financial  results  of   the  business   to  information  on   product costs  and  prices  to  "softer"  issues  such  as customer											
+	satisfaction and staff  attitudes.											
+												
+	Most  of  us  who  have  been  in  business  for  a  while  will  instinctively  recognize  the  importance  of  phrases  such as											
+	'the customer is  king'  and/or  'look after  your staff  and   they  will  look  after  your  business'.   As  important  as  those 											
+	are  to  any  business,  this  tutorial  does  not  deal  with  them. Rather,  this  tutorial   addresses  the  very  foundation  of											
+	any  business;  the  relationship  of  the  COSTS  of  the  business  with  the  SALES  of  the  business. 											
+												
+	This tutorial  addresses  the  GROSS PROFIT of  a  business;  WHAT  it  is,  WHY  it  is important,  HOW  it  is calculated											
+	and HOW  it links  with the  FIXED OVERHEAD  of your  business to either  ensure the  SUCCESS  or cause the FAILURE											
+	of your business. Without  this  vital  INFORMATION,  you  will  not  be  able  to  structure  your  business  effectively.											
+												
+	This  tutorial   will  not  only  stress  the  importance  of  managing  the  GROSS PROFIT  and  FIXED OVERHEAD  of your 											
+	business   continuously,   but  will   also   teach  you   how  to  use    the  COSTING PROGRAM   to  which  this  tutorial is											
+	attached,  in order that you become a  BUSINESS CHAMPION  by first becoming  a  GROSS PROFIT CHAMPION.											
+												
+2.	GENERAL PRINCIPLES OF GROSS PROFIT											
+												
+	2.1	INTRODUCTION TO GROSS PROFIT										
+												
+		2.1.1	In  the   larger   (macro)  sense  of   your  business,   the   GROSS PROFIT  is   the  difference  between  the									
+			SALES  the business achieved and  the  DIRECT COSTS  the business incurred in  achieving those  SALES.									
+												
+		2.1.2	In  the   smaller  (micro)  sense  of  your  business,   the   GROSS PROFIT  is  the  difference  between what									
+			your  business   SELLS  each   PRODUCT  for  and  what  it  COSTS   you to  produce  that   PRODUCT.									
+												
+		2.1.3	When  you  multiply  the  VOLUMES  of   each  product  sold   by  the  differences  between  their  respective									
+			PRODUCT SELLING PRICES   and  DIRECT PRODUCT COSTS,  you  get  back   to  the  business'  overall									
+			SALES and DIRECT COSTS and the difference  is  the  overall   GROSS PROFIT  of  the  business.									
+												
+	2.2	WHERE DOES GROSS PROFIT FIT IN?										
+												
+		2.2.1	First  of  all,  PROFIT,  and  hopefully  a  lot  of  it, is  important. Why  else  will  we  want  to be in business?									
+												
+			But  PROFIT,  or  NET PROFIT,   only  comes  at   the  end  of  the  line,  after  a  lot of  hard  work has been									
+			done  and  a LOT of  COST  has  been  incurred  to  generate  the  SALES  which  will hopefully  deliver some									
+			PROFIT.  The  COSTS  your  business   have  incurred   along   the  way  can  basically  be  broken  up  into									
+			TWO broad categories : DIRECT COST and OVERHEAD.									
+												
+		2.2.2	If we put the above together, the structure looks as follows:									
+												
+				SALES								
+			Less:	DIRECT COST								
+			Equals:	GROSS PROFIT								
+			Less:	OVERHEAD								
+			Equals:	NET PROFIT								
+												
+		2.2.3	An example is:									
+												
+				SALES		R 100		100%				
+			Less:	DIRECT COST		R 60		60%				
+			Equals:	GROSS PROFIT		R 40		40%		<-GROSS PROFIT %		
+			Less:	OVERHEAD		R 20		20%				
+			Equals:	NET PROFIT		R 20		20%				
+												
+			In  the  above  business,    DIRECT COST of R60   was incurred  to produce  SALES of R100.  This produced									
+			a  GROSS PROFIT  of  R40.  The  GROSS PROFIT  was  then  further  reduced  by  the  FIXED OVERHEAD									
+			of  R20  to  finally produce  a  NET PROFIT  of  R20.									
+												
+			We  will  later  have  a  look  at  how  different  these  structures  can  be  and  how  clearly  these  structures									
+			reflect  the  health of any business. 									
+												
+												
+												
+- 2 -												
+												
+	2.3	WHY IS GROSS PROFIT SO IMPORTANT?										
+												
+		2.3.1	GROSS  PROFIT  occupies  the  CENTER   of  the  above  equation   because   it  is  the  "BREADBASKET"									
+			of  any  business  operation.  It  is,   on  the  one  hand,  the  result  of   SALES  LESS  DIRECT  COST  (you									
+			can  also  call  it   WHAT  YOU  HAVE  LEFT  OF YOUR  SALES   after  you  have  paid  for  the  things  and									
+			the  people  which   PRODUCE  it in   the  first   place)  and  it ,  on   the  other  hand,  has  the  responsibility									
+			of covering the OVERHEAD  of your business. 
+			
+		2.3.2	How  often  have  you  taken  on  business  when  you  knew  the  PRICE  you  were  getting  for  the
+			work required  is  simply  NOT  ENOUGH? That almost  instinctive  feeling  is  based  on GROSS PROFIT,
+			in these cases, not making enough gross profit.
+			
+		2.3.3	How  often   have   you   taken  on  an  order,  knowing   that  it  was   going  to   lose  you   money?
+			That  feeling  is, again,  based on  an almost  instinctive knowledge  about  the principle  of  GROSS PROFIT.
+			
+		2.3.4	In  spite of  this almost  instinctive  knowledge,  many businesses  will  continue   to take  on  "negative-G.P."
+			work.  This  is  largely  so  because   most  businesses   will  willingly  chase  TURNOVER (SALES),  at  the
+			expense of  PROFIT.   BUT, SALES  do not  create success;  PROFIT does.  SALES do not  create financial
+			stability;  PROFIT does.  SALES  do not create  CASH;  PROFIT does. So why  then do  we  hunt sales. We
+			should  be  hunting  PROFIT.  That  is  the  importance  of  GROSS PROFIT;  at  the  barest  minimum,  it  is
+			the  FIRST  STEP  to  OVERALL  PROFIT
+			
+		2.3.5	"Above the line", it  is your  WARNING SIGNAL  if  SALES and DIRECT COST  are  not  in  line  with  each
+			other. The importance  of  this  warning  signal  can  never  be  over-estimated,  not  only  because  these two
+			are  vital  measures to  the  business,   but  also because  both  SALES  and  DIRECT COST  are  potentially 
+			very VULNERABLE.
+			
+		2.3.6	On  the one  hand, every  product  your  business  produces  and  sells  is  in  competition  with  the products
+			supplied  by   your   competitors.  The   SELLING PRICE  of   your  product   feels  this  competition   and  is 
+			therefore  constantly exposed  to  pressure.  Increase your  SELLING PRICE  to  increase  GROSS PROFIT,
+			and your business  runs the  risk of  losing customers. Reduce the  SELLING PRICE  to get more customers
+			(VOLUME) and  you  sacrifice important  GROSS  PROFIT.
+			
+		2.3.7	On the  other hand, the  COST OF PRODUCING  a  product  is   the  function  of  the  COST OF MATERIAL,
+			the  COST  and  EFFICIENCY  of  your  LABOUR,  the  WASTEAGE  of  MATERIAL etc.  and  these  factors 
+			are  a  constant  threat  to   the  erosion  of   GROSS PROFIT.  An  increase  in MATERIAL PRICES  by your
+			supplier  will  leave you  facing  the  decision  to  either  increase  the  SELLING PRICE  or  face  a  reduction
+			in  GROSS PROFIT. An  increase  in   WAGE COST  will   present  the  same  dilemma.  And  so  will  many
+			other  cost  items  directly  involved  in  producing  the  product  your  business  sells.									
+												
+			The  barometer  for  the  effect  of   all  these, mostly  external,  influences  is  the  GROSS PROFIT  of  your									
+			business.  It  is  THE  MOST  IMPORTANT  WARNING  SIGNAL  at  your  disposal   to help  you defend your									
+			business against  all  those  external  and  internal  factors threatening to  turn  your  business  upside  down.									
+												
+			RULE 1:	WATCH YOUR GROSS PROFIT CLOSELY								
+												
+			RULE 2:	PROTECT YOUR GROSS PROFIT WITH YOUR LIFE								
+												
+		2.3.8	There  is  a  further  equally  vital  reason  for   the  importance   of   GROSS PROFIT;  the   responsibility  for									
+			covering  the  OVERHEAD  of  your  business.									
+												
+		2.3.9	The  'Mount Everest'   of  business   is   PRODUCING  SUFFICIENT  GROSS  PROFIT   to  cover  the  FIXED									
+			OVERHEAD of   the business consistently. The higher  the FIXED OVERHEAD of the business, the tougher it									
+			is for the  GROSS PROFIT  of  the business to  cover it.  And,  as  we  have  seen,  GROSS PROFIT  already									
+			runs  the  constant  risk  of  pressure  from  a  delicate  relationship  between  SALES  and  DIRECT COSTS.									
+												
+		2.3.10	The responsibility  for maintaining  a healthy relationship between GROSS PROFIT  and  FIXED OVERHEAD,									
+			leading  to  consistent  NET PROFIT  for  the  business,  therefore lies far  more  with the FIXED OVERHEAD									
+			component of  the business than  it lies with GROSS PROFIT. But the importance of GROSS PROFIT  in the									
+			equation  is  that,  just  like with  SALES  and  DIRECT COST,  GROSS PROFIT  will  constantly  serve  as a									
+			WARNING SIGNAL  whenever  FIXED OVERHEAD becomes excessive.									
+												
+			RULE 3 PROTECT your GROSS PROFIT by keeping YOUR FIXED OVERHEAD AS LOW AS POSSIBLE	PROTECT your GROSS PROFIT by keeping your OVERHEAD AS LOW AS POSSIBLE								
+- 3 -												
+												
+	2.4	CALCULATING THE GROSS PROFIT OF YOUR BUSINESS										
+
+		2.4.1	SALES LESS DIRECT COSTS (The MACRO way)									
+			As mentioned earlier,  on a  larger (macro)  business scale, GROSS PROFIT  is  the difference  between  the									
+			SALES  of  the business  and  it's DIRECT COST,  i.e.  the  COSTS DIRECTLY INCURRED in PRODUCING									
+			the  product.  It  is  therefore  relatively  simple   to  ascertain  the   GROSS PROFIT   of  one's  business  by									
+			checking  one's  ANNUAL FINANCIAL STATEMENTS  for the detail,  or even  more regularly  doing the same									
+			exercise   by  using  one's   MONTHLY MANAGEMENT ACCOUNTS,   should  one  have  access  to  same.									
+
+			Simply, GROSS PROFIT = SALES less DIRECT COSTS									
+
+		2.4.2	GROSS PROFIT %									
+
+			This is the GROSS PROFIT expressed as a percentage of SALES, i.e.									
+
+				GROSS PROFIT %		=	GROSS PROFIT			OR		
+							SALES					
+
+				GROSS PROFIT %		=	SALES - DIRECT COSTS					
+							SALES					
+
+			Hence,  if  SALES equals 100  and  GROSS PROFIT equals 40,  then the  GROSS PROFIT % is 40%.									
+
+		2.4.3	THE DISADVANTAGES OF THE "MACRO" WAY									
+			Whilst  this  exercise  provides  one  with  the  necessary  information  on  one's   GROSS PROFIT,  it  is  far									
+			from  the  ideal  way  to  monitor  one's  GROSS PROFIT.  The  reasons  for  this are:									
+
+			2.4.3.1	GROSS PROFIT is too important to be monitored on an ANNUAL basis only;								
+												
+			2.4.3.2	GROSS PROFIT obtained from  ANNUAL FINANCIAL STATEMENTS or MONTHLY MANAGEMENT								
+				ACCOUNTS is historic of nature and not sufficiently 'real-time';								
+												
+			2.4.3.3	The  information  obtained  on  the  GROSS PROFIT   from  MONTHLY MANAGEMENT ACCOUNTS								
+				is  a  COMPOSITE,   ONE-FIGURE  GROSS  PROFIT.  Any  problem   identified  with  the  GROSS								
+				PROFIT  obtained  from  this  source  will  cause  more  frustration  and anguish  than  anything else,								
+				as  one  will   not  have  the  ability   to  "drill-down"   to  the  specific   area  or  product  causing  the								
+				problem.								
+				For example: Let us assume the  NORMAL GROSS PROFIT for your business is 30%. An analysis
+				of  the  MONTHLY  MANAGEMENT  ACCOUNTS   shows  that  the  GROSS PROFIT  has suddenly
+				dropped to 25%. Where are you going  to start looking for  the reason? And  whilst you are  searching
+				for  the  problem, you  have the  anguish of  having to wait  till the  end of  next month  to see whether
+				the  problem  remains ( or  is  maybe  even  worse).
+
+			2.4.3.4	Trying  to  manage  your  GROSS PROFIT  by simply  monitoring it  in  the above-mentioned  manner
+				is  at  most  a  REACTIVE,  rather  than  a  PROACTIVE  way  of  managing  a  vital  element of your
+				business.  GROSS PROFIT  is  too  important  to  your   business  to  manage  it  in  any  other  way
+				than  being  PROACTIVE  about  it.
+				
+			2.4.3.5	Finally,  by  not  providing   your  business  with  an  accurate  and  pro-active  PRODUCT COSTING
+				SYSTEM,  you  deprive   it  of   a   MOST IMPORTANT TOOL, i.e.  the  GROSS PROFIT  of  EVERY
+				PRODUCT  produced  by  your business, rather than the   GROSS  PROFIT of your  BUSINESS  as
+				a whole.
+				
+				With  all  the  emphasis  on   BUSINESS  GROSS  PROFIT,   one  must not  forget the vital benefits								
+				of  an accurate  PRODUCT  COSTING  SYSTEM  for  a  business.  These  benefits,  along  with  the								
+				process  of  creating   and  bedding  down  an  accurate   PRODUCT  COSTING  SYSTEM   for  your								
+				business,  will  be  highlighted  in  the  following section.								
+												
+			RULE 4 : CONTROL YOUR GROSS PROFIT BY MONITORING IT PER INDIVIDUAL PRODUCT	CONTROL YOUR GROSS PROFIT BY MONITORING IT PER INDIVIDUAL PRODUCT								
+- 4 -												
+												
+		2.4.4	CALCULATING YOUR GROSS PROFIT PER PRODUCT (THE "MICRO" WAY)									
+												
+			2.4.4.1	Just as each of  the Products your business sells  can be  seen as  a "column" which,  when added								
+				together  make  up  the entire house  which is  your  business,  each "column"  consists of "blocks",								
+				which is the various cost components and the product profit, which in turn make up each product.								
+												
+				This is an illustration of the above, reflected in percentages:								
+												
+						PRODUCT 1	PRODUCT 2	PRODUCT 3	PRODUCT 4	PRODUCT 5		ALL PRODS.
+				SELLING PRICE		100	100	100	100	100		100
+												
+						40	60	80	50	30		40
+												
+												
+				DIRECT COST						70		
+						60						60
+									50			
+				GROSS PROFIT			40					
+												
+								20				
+												
+												
+						30	30	30	30	30		30
+				OVERHEAD								
+												
+												
+						30	10	-10	20	40		30
+				NET PROFIT								
+												
+												
+												
+				In the above example,  Products 1 and 5  are  strong contributors  to  business profit,  Product 4 is								
+				reasonable,  Product 2  is  marginal  and  Product 3 does not succeed in covering the Overhead.								
+												
+				In essence, if your business was largely made up of Products 1 and 5, it would have been HEALTHY.								
+				If  your  business  was  made  up  only  of  Product 3,  it  would  be  in  SEVERE TROUBLE.								
+												
+				Obviously, your  business  will  sell  DIFFERING VOLUMES of  EACH  PRODUCT.  Should  you  sell 								
+				far more of Products 1 and 5 than the rest, your  business  will  be HEALTHY.  Should you  sell more								
+				of  Product 3  and  even  Product 2,  your  business  will  be  in  TROUBLE.								
+												
+				NOTE  the  OVERALL BUSINESS GROWTH PROFIT  on  the  very  RIGHT  of  the  example.								
+				In  this  example,  you would  be  happy with  the  OVERALL BREAKDOWN   of  your  business  and								
+				you  may  think that it  is not that necessary  to be aware of the BREAKDOWN for EACH PRODUCT.								
+												
+				However, there are TWO REASONS why you ALWAYS need to be aware of the COST BREAKDOWN								
+				for each INDIVIDUAL PRODUCT. The first is that often  a business would  NOT BE AS FORTUNATE								
+				with it's  COST BREAKDOWN as  the above  picture depicts. The  second is  that, even  if  the above								
+				COST BREAKDOWN  reflects your  business  closely,  there will  still  be  SOME PRODUCTS which								
+				UNDER-PERFORM  as  with Product 3.  Having a system in  place  which  determines  INDIVIDUAL								
+				PRODUCT COST and  GROSS PROFIT, enables you  to constantly  IMPROVE BUSINESS GROSS								
+				PROFIT  by  IDENTIFYING THE POOR  GROSS PROFIT PRODUCTS  and  either  CHANGE THEIR								
+				PRICE  and  COST COMPONENTS  or  even  ELIMINATING THOSE PRODUCTS.								
+												
+				It is clear that the difference between each product above is the DIRECT COST attached to each one.								
+				The  DIRECT  COST  of  each  Product  is  determined  by  attaching  the  costs  which are  directly 								
+				identifiable with the Product. Whilst the costs which can  be directly attached to each product vary								
+				from  industry  to  industry,   the  DIRECT COSTS   for  most  industries  consist  of  MATERIAL and								
+				LABOUR.								
+												
+				Once the DIRECT COSTS have  been  identified  and attached  to  each Product,  the  BALANCE OF 								
+				COST  REMAINING  is  considered  OVERHEAD.  This  OVERHEAD  has  to  be  allocated  to  each 								
+				Product  by  finding  an  APPROPRIATE BASE  for  ALLOCATION OF THE OVERHEAD.								
+												
+				The  BASE  for  the  allocation  of  OVERHEAD  is  normally   a  unit  such  as  LABOUR HOURS  or 								
+				MATERIAL  KG'S  or  METRES.								
+												
+			2.4.4.2	The methodology for the above  process is discussed  in the following section, but before we get there								
+				we have to sidetrack  to discuss one other very  important  factor in  any  business,  one  we  will call:								
+- 5 -												
+												
+	2.5	MISSION  # 1  :     "ACHIEVING  BREAKEVEN"										
+												
+		2.5.1	WHAT IS BREAK-EVEN?									
+			A  very  important   exercise  to  do  in  your  business  (new or old)  is  to  determine, and  constantly  remain									
+			aware  of,  the  BREAKEVEN-POINT of  the business.  The  BREAKEVEN-POINT  is  essentially  the  level of									
+			TURNOVER  at which the business makes  sufficient GROSS PROFIT to cover the FIXED OVERHEAD of the									
+			business.									
+												
+			A repeat of the example in section 2.2.3., but at the BREAKEVEN-POINT, shows the following:									
+												
+				SALES		100		100%				
+			Less:	DIRECT COST		60		60%				
+			Equals:	GROSS PROFIT		40		40%				
+			Less:	OVERHEAD		40		40%				
+			Equals:	NET PROFIT		0		0%				
+												
+												
+			In  this  example,  both  GROSS PROFIT  and FIXED OVERHEAD are 40, hence the business does not make 									
+			any  PROFIT.  The  above  means  that  SALES  of  100  has  delivered  a  GROSS PROFIT of 40  (40%)  and									
+			the  FIXED OVERHEAD  of  the  business  also  at  40,  the  NET PROFIT  is 0.									
+												
+		2.5.2	HOW TO CALCULATE BREAKEVEN.									
+			To  calculate  the  BREAKEVEN  of  your  business  at  any  time,  the  following  process  is  followed:									
+												
+			2.5.2.1	Determine the OVERHEAD of your business for a period, say a month.								
+				NOTE AGAIN:  OVERHEAD  is that  cost which  you  CANNOT ATTACH DIRECTLY  to the Product. 								
+				It is  that  cost  which  you  HAVE TO PAY  every  month,  regardless  of  whether  the  business has 								
+				made money or  not.  An  example  is  Rent; another  is a repayment on a delivery vehicle. 								
+												
+			2.5.2.2	Determine the GROSS PROFIT % of your business.								
+				You do  this by  first  determining  your SALES for  the same  period, then your  DIRECT COSTS and								
+				then  DEDUCTING the  latter  from the  former, which  gives  you  your  GROSS PROFIT.  By dividing								
+				the  GROSS  PROFIT  by  the  SALES,  you  get  your  GROSS PROFIT %.								
+												
+			2.5.3.2	DIVIDE  the  OVERHEAD,  in 2.5.2.1,  by  the   GROSS PROFIT %  in  2.5.2.2								
+				The  figure  you  obtain  by  doing  this,  is  the  SALES (TURNOVER)  the  business  requires  in the								
+				period to BREAKEVEN.								
+												
+				An example:								
+				- OVERHEAD				R 40,000				
+				- GROSS PROFIT %				40%				
+				- BREAKEVEN SALES				R 100,000	<-------------	R40,000 / 40%		
+												
+												
+		2.5.3	WHY BREAKEVEN IS VITAL TO ANY BUSINESS.									
+												
+			2.5.3.1	A few examples of BREAKEVEN will hopefully illustrate it's importance:								
+												
+							1	2	3	4	5	6
+				- OVERHEAD			R 20,000	R 25,000	R 30,000	R 40,000	R 50,000	R 100,000
+				- GROSS PROFIT %			30%	25%	20%	10%	50%	50%
+				- BREAKEVEN SALES			R 66,667	R 100,000	R 150,000	R 400,000	R 100,000	R 200,000
+												
+				The  above  6 examples  highlight  a vitally  important  relationship  in  a  business  and  stresses  the								
+				importance  of  previous  sections  which  highlighted  the  importance  of:								
+				- protecting  the  GROSS PROFIT  of  your  business  with  your  life  and								
+				- keeping  OVERHEAD as  low  as  possible.								
+												
+				GROSS PROFIT  and  OVERHEAD  run  together  in a business;  a  STRONG GROSS PROFIT with								
+				LOW  OVERHEAD  will  deliver  solid  profits  all  round.  An  example  is  No 1  and  No 5  above.								
+												
+				But,  HIGH  OVERHEAD  with  a  LOW GROSS PROFIT,  as  with  No 3 and 4  above,  will demand								
+				a  CONSISTENTLY HIGH TURNOVER (SALES)  to  keep  your  business  in  profit.								
+												
+				Even  if  you  manage  to  achieve the  relationship  in No 2 and 6 above,  it will  not  be  as  ideal  as								
+				achieving  the  combination  in  No 1  and  No 5.  That  is  because  of  the  effect  on  your  business								
+				once   it    GOES  BEYOND   the   BREAKEVEN-POINT  -  the  last  VERY  IMPORTANT  aspect  of								
+				BREAKEVEN-ANALYSIS.								
+- 6 -												
+												
+			2.5.3.2	Look at the 3 scenario's below:								
+												
+							Scenario 1		Scenario 2		Scenario 3	
+					SALES		R 100,000		R 120,000		R 200,000	
+				Less:	VARIABLE COST		R 60,000		R 72,000		R 120,000	
+				Equals:	GROSS PROFIT		R 40,000		R 48,000		R 80,000	
+				Less:	FIXED COSTS		R 40,000		R 40,000		R 40,000	
+				Equals:	NET PROFIT		R 0		R 8,000		R 40,000	
+												
+				Scenario 1:	Shows  a BREAKEVEN situation, as discussed  earlier. GROSS PROFIT at 40% delivers							
+					a  GROSS PROFIT  of  R40,000  on a TURNOVER  of  R100,000, which  exactly covers							
+					the FIXED OVERHEAD of R40,000, delivering a NET PROFIT of R0.
+					
+				Scenario 2:	TURNOVER increases by 20% or R20,000 to R120,000.
+					
+					You will notice that this increase leads to 2 things:
+					1. GROSS PROFIT  also  increases  by  20%,  which  translates  to  R8,000;
+					2. NET PROFIT  also  increases  by  R8,000.
+					
+					This  illustrates  the effect of  what  is  called  SUPER-PROFITS,  which is  achieved  by a
+					business  once it  has  achieved it's  BREAKEVEN-POINT.  It  means that  ONE RAND of
+					ADDITIONAL  SALES  delivers  ONE  RAND  of  ADDITIONAL  NET  PROFIT.
+					
+					The  above  happens  because   the  OVERHEAD   is  FIXED  and  as  such  has  already
+					been  covered  by   the  GROSS  PROFIT  derived   from  the  BREAKEVEN  SALES. The
+					EXTRA  GROSS  PROFIT  achieved  translates  directly  into  the  same  NET PROFIT.
+					
+					The huge effect this has on any business is even better illustrated in Scenario 3.
+					
+				Scenario 3:	TURNOVER doubles from R100,000 to R200,000.
+					The effect is:
+					1. GROSS PROFIT  increases  by  R40,000,  which  is  40% (GP%)  of  R100,000;
+					2. NET PROFIT  also  increases  by  R40,000.
+					
+					That carries through  the principle of  SUPER-PROFITS, but  there is more  if you compare
+					the  NET PROFIT  increase  from  Scenario 2  to  Scenario 3:
+					- SALES  has  increased  by  66.7%  (R120,000  to  R200,000)
+					- GROSS PROFIT  has  increased  by  66.7%  (R48,000  to  R80,000)
+					
+					  BUT: NET PROFIT has increased by 400%, from R8,000 to R40,000
+					
+				The  above  hopefully  has  created   both  an  understanding  of  BREAKEVEN  and  the  importance 	
+				of  it  to  any  business. Not  only  is  it  vital  that  you  PROTECT THE  GROSS PROFIT  OF YOUR 	
+				BUSINESS  and   KEEP   OVERHEAD   AS   LOW  AS  POSSIBLE   in   order  that  your  business								
+				DOES  NOT  LOSE  MONEY, but  it  is  as  vital  on  the   ROAD TO ACHIEVING SUPER-PROFITS.								
+- 7 -												
+												
+3.	PRINCIPLES OF COSTING YOUR PRODUCT ON AN INDIVIDUAL BASIS											
+												
+	3.1	A PRACTICAL EXAMPLE OF HOW YOU USE PRODUCT COSTING TO MAKE EFFECTIVE										
+		BUSINESS DECISIONS										
+												
+		3.1.1	A  PRODUCT COSTING SYSTEM  relates  the  SELLING PRICE  of  every  product  your  business  sells to									
+			COST OF MANUFACTURE  of  that  product,  providing  you  with  a  GROSS PROFIT  for  each  product. A									
+			proper  PRODUCT COSTING SYSTEM   will  indicate   to  you  through   the  projected   PRODUCT GROSS  									
+			PROFIT, whether components  of  certain  Products  should  be  changed  and  also  whether  a certain  order									
+			should be taken on or not.									
+												
+		3.1.2	An Example of this is:									
+										
+			Say you set the  OVERALL GROSS PROFIT TARGET  for  your business at  30%. You have calculated your 							
+			FIXED COST and you are  satisfied that  a 30% GROSS PROFIT  for  the business  will  cover  those FIXED 							
+			COSTS. 							
+										
+			A  customer  now  places  an  order  with  your business. In terms of  SALES VALUE, it is  say  25%  of  the							
+			current sales of your  business,  so  you will  dearly like  to  take on  the order.  But the question you need to							
+			ask  is  not  what   the sales  value  of  the  order  is,  but  what  GROSS PROFIT  the  order  DELIVERS TO							
+			THE  BUSINESS.  So,  BEFORE  accepting  the  order,  you  need  to  determine  what  it is going  to COST							
+			you  to  PRODUCE  the  order.  Remember,  you  need  to   PROTECT  THE  GROSS  PROFIT  OF  YOUR							
+			BUSINESS at all cost, even if it sometimes means turning away a large order.							
+										
+			In  this  example, you  calculate  your  PRODUCT  COST   and  the  GROSS PROFIT  which  the  order  will							
+			deliver  and  you  realise  that  the  ORDER  GROSS  PROFIT  is  10%. Do  you  accept  the  order  or  not ?							
+										
+		3.1.3			Current		Order		Total	
+					Turnover	%	Turnover	%	Turnover	%
+										
+			Turnover		10000		2500		12500	
+										
+			Gross Profit		3000	30.0%	250	10.0%	3250	26.0%
+										
+			Fixed Cost		2000		0		2000	
+										
+			Net Profit		1000		250		1250	
+										
+		3.1.4	The above example shows the following:							
+			3.1.4.1	TURNOVER  increases  by  R2,500  or 25% from  R10,000  to  R12,500.						
+			3.1.4.2	GROSS PROFIT  increases  by  R250  or  8.33%  from  R3,000  to  R3,250.						
+			3.1.4.3	GROSS PROFIT OVERALL  decreases  from  30%  to  26%.						
+										
+		3.1.5	The  WARNING SIGNALS  that the  above should  send to you prior to accepting the order are the following:							
+				
+			3.1.5.1	Your  OVERALL GROSS PROFIT  is now  4% BELOW the TARGET  and is now entrenched in your 
+				business.  To get it back to 30% AVERAGE some time in the future on a same-size order, your
+				NEXT ORDER will have to deliver a 46% GROSS PROFIT, not an easy thing to find.
+				
+			3.1.5.2	You  are taking  on  an  order which is  delivering an  extra  8.33% gross profit, which will  demand a:
+				
+				- 25% extra PRODUCTION EFFORT;
+				- 25% extra MANAGEMENT EFFORT;
+				- 25% extra QUALITY CONTROL;
+				- 25% increase in MATERIAL PURCHASES and therefore, in month-end CREDITORS PAYMENTS;
+				- an increase in RAW MATERIAL STOCKS and FINISHED GOODS STOCKS;
+				- quite possibly, an increase in your DEBTORS BALANCES OUTSTANDING.
+				
+				The  above  factors  will  result  both  in  a  substantial  increase  in  MANAGEMENT EFFORT  and a
+				CASH STRAIN  on  your  business.
+												
+			3.1.5.3	As  importantly,  taking  on  the order  will   INCREASE the BREAKEVEN-POINT  of  your  business.								
+				Using the knowledge  we have  gained  in Section 2.5.2  above,  we can  calculate  the BREAKEVEN								
+				SALES of the business as it is currently and as it will be once we take on the order:								
+												
+						NOW			THEN			
+				Fixed Cost		R 2,000			R 2,000			
+				G.P. %		30%			26%			
+				Breakeven Sales		R 6,667			R 7,692			
+- 8 -												
+												
+				This  means that  by  taking  on  the  order,  you have  just  increased  the  SALES  required for  your								
+				business to  BREAK EVEN, from R6,667 to R7,692, a 15% increase in BREAKEVEN requirement.								
+												
+		3.1.6	On the surface,  without the benefit of a PRODUCT GROSS PROFIT,  a potential 25% increase in SALES									
+			looks too good  to be missed. It is only when one has the benefit of  a proper PRODUCT COSTING SYSTEM									
+			allowing  one  to  calculate the  CONTRIBUTION OF THE  ORDER TO GROSS PROFIT,  that  one sees the									
+			the  danger  of  accepting  this  particular  order.									
+												
+			Let us now go and see how we determine individual PRODUCT COST.									
+												
+	3.2	THE UNDERLYING PRINCIPLES OF AN EFFECTIVE PRODUCT COSTING SYSTEM										
+												
+		3.2.1	A PRODUCT COSTING SYSTEM consists of TWO components:									
+			3.2.1.1	All the COSTS of the business and								
+			3.2.1.2	A BASE on which to apply those COSTS to the PRODUCT.								
+												
+		3.2.2	DIRECT AND INDIRECT COSTS.									
+												
+			3.2.2.1	DIRECT COSTS								
+												
+				These  are the COSTS which one can identify directly with the product.								
+				(If the people or items comprising these costs are not at work, the work WILL NOT happen)
+				For Example: The LABOUR which applies a HANDLE to a CUP
+				                  :  The LABOUR which applies the MATERIAL to a CHAIR
+				                  :  The MATERIAL which comprises the CLAY of the HANDLE and the CUP
+				                  :  The MATERIAL which comprises the CLOTH of the CHAIR
+				
+				These DIRECT COSTS are calculated with the help of identifying a DIRECT STANDARD for 
+				each Product.
+				In  the case of  DIRECT LABOUR,  the  TIME  it  takes to  complete each  DIRECT TASK  in making
+				the  Product  is  identified  and  multiplied  with  the  LABOUR RATE  that  that  task  gets  paid.
+				
+				In  the  case  of  DIRECT MATERIALS,  the  QUANTITY  of  material  used  to  produce  the  Product
+				is  identified  and  multiplied  with  the  UNIT COST  of  that  material.
+				
+				A later section will deal with the detail of how these standards are identified and incorporated
+				into the Product cost.
+												
+			3.2.2.2	INDIRECT COSTS								
+												
+				These are the COSTS which one has difficulty with attaching to a specific product ONLY.								
+				(If the people or items comprising these costs are not at work, the work WILL STILL happen)								
+				For Example: The LABOUR from the WORKSHOP which repairs a machine								
+				                  :  The LABOUR which SUPERVISES the department								
+				                  :  The MATERIAL which is used to CLEAN product								
+				                  :  The MATERIAL which PROTECTS the staff								
+												
+			3.2.2.3	A COSTING BASE FOR INDIRECT COSTS								
+												
+				INDIRECT COSTS have to be APPLIED over a certain pre-determined BASE.								
+				The nature of this  BASE will be  determined by  the  TYPE OF MANUFACTURING  you  are  involved								
+				in and  especially  important will  be  what the  most  important  COST DRIVER  is  in  the  business.								
+				For  instance,  if  say   40%  of  your  OVERALL COST   is  LABOUR   producing  the  product,  your								
+				COST DRIVER  will more than likely be  LABOUR HOURS. Other BASES for the apllication of COST								
+				are  WEIGHT (of MATERIAL)  and  LENGTH  (of MATERIAL)								
+- 9 -												
+												
+4.	BUILDING  PRODUCT COST FROM SCRATCH											
+												
+	4.1	DIRECT LABOUR COST										
+												
+		4.1.1	WHERE DOES IT FIT IN?									
+												
+			The DIRECT LABOUR  involved in  producing  each  product   is   attached to  that product  by identifying and 									
+			then  costing  the  labour  involved with  each  product. This  is actually  easier  than what  it  sounds,  as long									
+			as  you have  identifiable  TIME STANDARDS  for  each TASK performed  in producing  the  ultimate  product.									
+			If  you do not  have  a TIME STANDARD  as above,  you  have  to  create  it  by  a  process of  TIMING  each									
+			TASK  in  the  process  and  then  adding  the TIME  for  each  TASK  in  the process  together  to  derive the 									
+			TOTAL  TASK  TIME  of  each  product.   Once  you  have  done  so,  you  are  ready  to  apply  the  relevant									
+			LABOUR RATE  to  the  TOTAL TASK TIME  to  arrive  at  the  LABOUR COST  of  each  product.									
+												
+			A set out of the above, working from top to bottom, is as follows:									
+												
+						PRODUCT COST						
+												
+					DIRECT COST				OVERHEAD			
+												
+			LABOUR COST			MATERIAL COST						
+												
+												
+			LABOUR HOURS		X	LABOUR RATE						
+												
+		4.1.2	DIRECT LABOUR STANDARDS									
+												
+			4.1.1.1	AN EXAMPLE								
+												
+				A simple example of arriving at the TOTAL TASK TIME for a product is as follows:								
+												
+				PRODUCT :		A  T-Shirt						
+												
+					TASK				TASK TIME (Smins)			
+					Join Shoulders				0.56			
+					Insert Sleeves				0.74			
+					Close 1st Side Seam				0.60			
+					Close 2nd Side Seam				0.71			
+					Bartack Seam				0.15			
+												
+												
+												
+												
+					LABOUR S Mins				2.76			
+				
+				The above means that to  do all the  identified tasks attached  to producing a  T-Shirt will take
+				2.76 Standard minutes  or  0.046 hours.
+				
+				NOTE  that  ONLY  the LABOUR   which is DIRECTLY  attached  to the PRODUCT  is identified  and 
+				included. Tasks  such  as  Drawing  the  Couch  or  Supervising  the  production  are  EXCLUDED.
+				
+				ALSO NOTE that one of the MAJOR BENEFITS of  identifying  your  LABOUR HOURS  per  Product,
+				is that this TIME becomes the STANDARD for each Product. Once known,  it  will  enable  you  to:
+				
+				- monitor your  ACTUAL Labour Time Paid against  your  STANDARD Labour Times  and address
+				  any  OVER-USAGES  due  to  inefficient labour etc.
+				
+				- determine your MONTHLY  LABOUR  REQUIREMENTS  by  MULTIPLYING the  LABOUR HOURS
+				  REQUIRED  for   each  TASK per PRODUCT  by the  ANTICIPATED PRODUCTION  VOLUMES of 
+				  each  PRODUCT.
+												
+				The above will be discussed under a following section.								
+- 10 -												
+												
+		4.1.3	DIRECT LABOUR RATE									
+												
+				Once the  TOTAL TASK TIME has been  identified as in the example above,  it remains  for  the TIME								
+				(HOURS) to be multiplied with the appropriate LABOUR RATE(S)  to determine the DIRECT LABOUR 								
+				COST of the  Product. An example of this is:								
+												
+				PRODUCT :		A  2-SEATER  COUCH						
+												
+					TASK			TIME (hours)		RATE  (per hour)		LABOUR COST
+					Join Shoulders			0.00933		R 14.00		R 0.13
+					Insert Sleeves			0.01233		R 14.00		R 0.17
+					Close 1st Side Seam			0.01000		R 14.00		R 0.14
+					Close 2nd Side Seam			0.01183		R 14.00		R 0.17
+					Bartack Seam			0.00250		R 14.00		R 0.04
+								0.00000		R 14.00		R 0.00
+								0.00000		R 14.00		R 0.00
+								0.00000		R 14.00		R 0.00
+								0.00000		R 14.00		R 0.00
+					LABOUR HOURS			0.04600				R 0.64
+												
+			In the above exercise, note the following:									
+												
+			- the LABOUR RATES for virtually each TASK are DIFFERENT.									
+												
+			  Most businesses  employ  more than  one person  and  each person  is allocated  a different  TASK or JOB,									
+			  based  on  the  individual  SKILL LEVELS  of  each person  and  each  person  is  paid  a RATE PER HOUR									
+			  based  on  those  individual   SKILL LEVELS.  Hence,  most  TASKS  will  attract  DIFFERENT RATES  per									
+			  HOUR.									
+												
+			- the STEPS in arriving at a LABOUR COST for a Product are:									
+												
+			  - identify each TASK required to produce the Product;									
+			  - obtain the TIME required for each TASK to be performed for each Product;									
+			  - identify the PERSON who will perform each TASK;									
+			  - apply the RATE per HOUR of that PERSON to the relevant TASK;									
+			  - MULTIPLY each TASK TIME with the appropriate RATE per HOUR;									
+			  - ADD UP the LABOUR COST per HOUR for each TASK to arrive at the LABOUR COST of the PRODUCT.									
+												
+		The  above  process will deliver the  DIRECT LABOUR COST  of each  product in  your business and  means that you										
+		are  'halfway'   to  determining  your  OVERALL  DIRECT COST  of  each  product. 										
+												
+	4.2	DIRECT MATERIAL COST										
+												
+		4.2.1	WHERE DOES IT FIT IN?									
+										
+			In  many  ways,  identifying and attaching  DIRECT MATERIALS  to  each  Product is  easier  than  the above							
+			procedure  for  DIRECT LABOUR.  Using the same set out as for DIRECT LABOUR shows the following:							
+										
+						PRODUCT COST				
+										
+					DIRECT COST				INDIRECT COST	
+										
+			LABOUR COST			MATERIAL COST				
+										
+										
+					NO. OF UNITS		X	MATERIAL PRICE		
+										
+			Each  Product will  attract either  no,  one or  more than one MATERIAL TYPES in DIFFERING QUANTITIES.							
+			Once  the  different  MATERIAL TYPES  are  identified  for  the  Product,  you will  know  it's PRICE from your							
+			PURCHASING  or  STOCK  records   and  you   just  have  to  determine   HOW MUCH  of  each  MATERIAL							
+			attaches  to  each  Product.									
+												
+			In  SUMMARY,   you  need  to  do   the  following  to  arrive  at  the  COST of MATERIAL  for  each  Product:									
+			-  IDENTIFY  each  MATERIAL   which  DIRECTLY  attaches  to  the  Product;									
+			- obtain  the  PRICE  for  each  of  these  MATERIALS;									
+			- ascertain  HOW MUCH  of  each  MATERIAL  is  required  for  each  Product.									
+- 11 -												
+												
+		4.2.2	DIRECT MATERIAL STANDARDS									
+												
+			4.2.2.1	AN EXAMPLE								
+												
+				An example, using the same Product as for the DIRECT LABOUR computation, is as follows: 								
+												
+				PRODUCT :		A  2-SEATER  COUCH						
+												
+					MATERIAL TYPE				MATERIAL QUANTITY	
+					Wood				3	
+					Sponge				4	
+					Material				4	
+					Thread				0.5	
+					Staples				30	
+										
+				NOTE  that  it is not necessary  to  ADD UP  the  above  as  all  the MATERIAL TYPES  are different.						
+										
+				ALSO NOTE   that  each   of   the  MATERIAL QUANTITIES  will   be   denominated  in  a  UNIT  OF						
+				MEASURE such as Metres (m), Square Metres (m²) or Kilograms (kg).						
+										
+				ALSO NOTE that one of the MAJOR BENEFITS of identifying your MATERIAL QUANTITIES per						
+				Product, is that this QUANTITY becomes the STANDARD USAGE for each Product. Once known,						
+				it will enable you to:						
+										
+				- monitor your  ACTUAL Material Usage  against  your  STANDARD Material Usage  and  address								
+				  any  OVER-USAGES  due  to  excessive wastage etc.								
+												
+				- determine   your   MONTHLY  MATERIAL  REQUIREMENTS  by   MULTIPLYING  the  QUANTITY								
+				  REQUIRED  for   each  MATERIAL TYPE   by  the   ANTICIPATED  PRODUCTION  VOLUMES  of 								
+				  each  PRODUCT.								
+												
+				The above will be discussed under a following section.								
+												
+		4.2.3	DIRECT MATERIAL RATES									
+												
+			Once  the  MATERIAL  TYPES   and  their   QUANTITIES  per  PRODUCT   have  been  identified, it remains									
+			for  the  UNIT PRICES to be identified for each MATERIAL and same to be MULTIPLIED by the QUANTITIES									
+			to determine the  MATERIAL COST  of the  Product.  An example of this is:									
+												
+					MATERIAL TYPE			MATERIAL QUANTITY	UNIT of MEASURE	PRICE (per unit)		MATERIALCOST
+					Wood			3	m	R 45.00		R 135.00
+					Sponge			4	m²	R 5.00		R 20.00
+					Material			4	m	R 120.00		R 480.00
+					Thread			0.5	m	R 0.50		R 0.25
+					Staples			30	each	R 0.05		R 1.50
+					TOTAL COST							R 636.75
+												
+			The above process will deliver the  DIRECT MATERIAL COST  of each  product in your  business  and means									
+			that you now have both this and the DIRECT LABOUR COST determined. 									
+												
+	4.3	DIRECT OVERALL COST										
+												
+			Based on the above example, it means that your TOTAL DIRECT COST is as follows:									
+												
+			Direct Labour Cost			R 0.64						
+			Direct Material Cost			R 636.75						
+			Total Direct Cost			R 637.39						
+												
+			It is  vital  to note at  this point  that,  once  you  know  what  the  SELLING PRICE  of  the  Product is, you									
+			now  have  all   the  relevant   information  available   for  the  Product  up  to  GROSS PROFIT  stage.   What									
+			remains to arrive at FULL PRODUCT COST is the allocation of OVERHEAD.									
+- 12 -												
+												
+	4.4	ALLOCATING OVERHEAD TO THE PRODUCT										
+												
+		So far,  we  have  ALLOCATED  the  DIRECT  COSTS,  which  largely  consist  of  DIRECT  LABOUR  and  DIRECT										
+		MATERIAL, to  the  Product. In  the example  above, we  have  assumed an  OVERHEAD of  R10,000  for the  month.										
+		OVERHEAD consists  of  all  the  EXPENSES  which  are  NOT DIRECTLY  INDENTIFIABLE  WITH THE PRODUCT.										
+		These EXPENSES  include RENT,  SALARIES,  ELECTICITY,  INSURANCE,  INDIRECT WAGES etc.  An  accurate										
+		PRODUCT COSTING SYSTEM  will  also  ALLOCATE OVERHEAD  per  Product,  based  on  a certain BASIS FOR										
+		ALLOCATION.										
+												
+		4.4.1	DETERMINING THE COSTING BASE									
+												
+			The  key  to  the  effective  ALLOCATION  OF OVERHEAD  to  the  Product  is  the  COSTING BASE  that is									
+			used. For  purposes of explanation,  forget  about the  INDIVIDUAL TYPES OF OVERHEAD  for  the  moment									
+			and  let  us  use  the  R10,000 OVERHEAD  used  in  previous  examples  first.									
+												
+			The  purpose  of  the  exercise  is  to  DISTRIBUTE THE R10,000 OVERHEAD across the Product, i.e. divide 									
+			the OVERHEAD COST over all the Products. To do this, we first have to IDENTIFY THE CORRECT COSTING									
+			BASE.									
+												
+		4.4.2	DIFFERENT TYPES OF COSTING BASE									
+												
+			The  COSTING BASE  one  uses  will  depend  on  the  MAIN  ACTIVITY  BASE  of  your  business.  Mostly, 									
+			because  most  businesses  are  largely  dependant upon LABOUR,  the  COSTING BASE will be LABOUR 									
+			HOURS.  However, in certain  instances,  where  the  business  is  largely  driven  by  MATERIAL,  this  could 									
+			also  serve  as  the  base. In turn, when  using  MATERIAL  as  the  base, you  may  want to  MEASURE  the									
+			BASE  in  MATERIAL KILOGRAMS,  METRES,  SQUARE METRES  or  even  LITRES.									
+												
+			BUT, as  LABOUR HOURS  are  used in  the  majority of instances,  your COSTING PROGRAMME  attached									
+			makes  use  of   LABOUR HOURS  as  it's  COSTING  BASE.  Should  it  prove  that  a  MATERIAL-BASED									
+			COSTING SYSTEM  is  required for  your  specific business,  the BASE  could  be  adjusted  upon  request.									
+												
+		4.4.3	HOW A COSTING BASE IS DESIGNED BASED ON LABOUR HOURS									
+												
+			Whilst  all  of  the  above  may  sound  terribly  complicated,  it  is  actually not. For  purposes  of  illustration,									
+			let  us  use  the  following  figures  from  previous  examples:									
+												
+			Overhead per Month					R10,000				
+			Volume of Product to be sold					35	units			
+			Labour Minutes per Product					170				
+												
+			In the above,we are using the No.of Units calculated in 4.4.6 above and the Labour Minutes for the Product									
+			is as per 4.4.5 above.									
+												
+			4.4.3.1	CALCULATING THE LABOUR HOURS TO BE USED								
+												
+			We  have decided  to use LABOUR HOURS  as the  BASIS for ALLOCATING OVERHEAD  to  the  Product.									
+			That  means   that   the   FIRST STEP   is  to   determine  the   TOTAL  LABOUR  HOURS  required  by  the 									
+			business  for  the PERIOD  ON  WHICH  THE  OVERHEAD  IS  BASED.  In  this  instance,  the  OVERHEAD									
+			cost  of  R10,000  is  for  the  MONTH,  so  the  LABOUR  STANDARD  PER HOUR  must  be  MULTIPLIED 									
+			by  the  ANTICIPATED  VOLUME  for  the  MONTH.									
+												
+			Labour Minutes per Product				170					
+			Labour Hours per Product				2.8333	(170/60)				
+												
+			Volume per Month				35					
+												
+			Labour Hours Required				99.17					
+												
+			This  simply  means  that  the  business  will  require  99.17  LABOUR HOURS  in  the  MONTH  to  produce									
+			the  35  anticipated  units  of  Product.									
+												
+			NOTE: Those of you  quick  on  the uptake  will realise  another  MAJOR BENEFIT of  a PRODUCT COSTING									
+				SYSTEM;  the  ability  it  gives one  to  determine  the  LABOUR REQUIREMENTS  of  the  business								
+				ahead of time. All you need  is a  LABOUR STANDARD  and  the  ANTICIPATED VOLUME  for each								
+				Product. More about that aspect later.								
+- 13 -												
+												
+			4.4.3.2	CALCULATING THE OVERHEAD RATE PER HOUR								
+												
+			Once  you have the TOTAL LABOUR HOURS REQUIRED for the MONTH,  it is  a simple  step  to determine									
+			the  OVERHEAD  RATE  per  HOUR.									
+												
+			Overhead for the Month				R 10,000					
+			Labour Hours Required				99.17					
+												
+			Overhead Rate per Hour				R 100.84					
+												
+			4.4.3.3	INCORPORATING THE OVERHEAD RATE INTO THE OVERALL COST								
+												
+			Our 2-seater couch, which we have  consistently used as example, now  looks like this in terms of PRODUCT									
+			COST,  using  the same format we have used since the beginning and based on LABOUR HOURS:									
+												
+							Hours	Rate	Cost			
+				SALES					R 900.00			
+			Less:	DIRECT LABOUR			2.83	R 25.30	R 71.68			
+			Less:	DIRECT MATERIAL					R 480.00			
+				GROSS PROFIT					R 348.32			
+			Less:	OVERHEAD			2.83	R 100.84	R 285.71			
+				NET PROFIT					R 62.61			
+												
+			From the above, you should now be able to notice a number of things: 									
+												
+			- you now have a FULL PRODUCT COST;									
+			- the  COSTING  basically  consists  of  3  COMPONENTS;   DIRECT LABOUR,   DIRECT MATERIALS  and									
+			  OVERHEAD;									
+			- of these 3 COMPONENTS and  because  it  is  a  LABOUR HOUR-based system,  only  DIRECT LABOUR									
+			  and  OVERHEAD  are  calculated  on  a  LABOUR  HOUR  BASE.  MATERIAL,  by  contrast,  is  based  on									
+			  the  STANDARD QUANTITIES of MATERIAL  times  the  PRICE OF THE MATERIAL;									
+			- the  NET PROFIT  is  basically  ZERO  (rounding prevents it from being),  because  the  COSTING is based									
+			  on  BREAKEVEN VOLUME (see 4.4.6).									
+												
+			4.4.3.4	ONE LAST THING ABOUT OVERHEAD : VARIABLE AND FIXED								
+												
+			Traditionally  the  OVERHEAD   of  any  business  consists   of  certain  costs   which  are  more  VARIABLE									
+			than others. VARIABLE OVERHEAD  is  that  OVERHEAD  which,  from  time to  time,  can  FLUCTUATE  in									
+			line with SALES or general business activity. An example of such  OVERHEAD is  INDIRECT WAGES, which									
+			often  represents  SUPERVISORS' PAY.  Whilst  one  can  argue  that  it  is  more  FIXED  than  VARIABLE,									
+			some  businesses  will   lay  off  supervisors  when   the  activity  levels   in  the  business  are  low.  Or  more									
+			simply,  OVERTIME worked  by  a SUPERVISOR  will  definitely  decrease  at  points  of  lower  activity,  as									
+			it  will  INCREASE  in BUSIER TIMES. For this reason,  INDIRECT WAGES can  be considered a VARIABLE									
+			OVERHEAD.									
+												
+			The  reason  why  this  distinction  is  important  and why  it is  brought  up here,  is  that  in some  COSTING									
+			SYSTEMS, VARIABLE OVERHEAD  will be  added to DIRECT COST  and,  together with  DIRECT LABOUR									
+			and DIRECT MATERIAL,  create the GROSS PROFIT. However,  whilst your  COSTING SYSTEM  makes the									
+			distinction between the types of OVERHEAD, it only includes LABOUR and MATERIAL under DIRECT COST.									
+												
+5.		USING WHAT WE KNOW ABOUT GROSS PROFIT TO MAKE EFFECTIVE BUSINESS DECISIONS										
+												
+	5.1	RELATING CALCULATED DIRECT COST TO A PROJECTED SELLING PRICE										
+												
+			Recapping  the  earlier  discussion, let us  relate the above  to  a  number of  fictitious  SELLING PRICES and									
+			see  how  well  we  understand  the  principle  of  GROSS PROFIT %.									
+												
+				SELLING PRICE		R 800	R 850	R 900	R 950	R 1,000	R 1,100	R 1,200
+			Less:	DIRECT COST		R 637	R 637	R 637	R 637	R 637	R 637	R 637
+				GROSS PROFIT		R 163	R 213	R 263	R 313	R 363	R 463	R 563
+												
+				GROSS PROFIT %		20.33%	25.01%	29.18%	32.91%	36.26%	42.06%	46.88%
+												
+			At a  rough estimate  and  using  GROSS PROFIT %  norms  across industries,  you would  CERTAINLY not									
+			want to sell THE PRODUCT for  LESS THAN R950  (G.P.% = 23.51%) and PROBABLY  not  for  less  than 									
+			R1,038, which is a G.P.% of 30%.									
+- 14 -												
+												
+			Of  course,  the SELLING PRICE  is  far  less  a  function of  the COST  which  underpins  it  and  far  more  a									
+			function  of  WHAT THE MARKET IS PREPARED TO PAY  for  each  Product. If  for  instance,  the  MARKET									
+			into which you are selling is prepared  to  pay only  R900 for  the Product,  you will  make  a GROSS PROFIT									
+			of  19.26%  on the  Product. This  may or may  not  be  sufficient  to cover  the OVERHEAD  of  your  business.									
+												
+	5.2	DETERMINING THE BREAKEVEN POINT										
+												
+			In order to set up an example for MEASURING THE EFFICIENCY OF THE PRODUCT GROSS PROFIT,									
+			let us make the following assumptions:									
+												
+			Obtainable Selling Price				R 900					
+			Monthly Overhead				R10000					
+												
+			At  a  GROSS PROFIT of 19.26%  for  the  Product  and  using  our  knowledge  of  BREAKEVEN ANALYSIS, 									
+			it means that  we have to  SELL R51,921  (R10,000 Overhead divide  by  19.26% Gross Profit) of  the  Product									
+			in  a  month. That  translates  into  57.69 units  to  be  sold  (R51,921  divide  by  R900  per  unit).									
+												
+			In summary:									
+												
+			Breakeven Sales in Value				R51,921					
+			Breakeven Sales in Units				57.69					
+												
+	5.3	APPLYING ANTICIPATED VOLUMES TO DETERMINE VIABILITY										
+												
+			The  question  that  now  arises  is  WHAT WE  EXPECT  OUR  VOLUMES TO BE  per  month.  Let  us  use 									
+			5 different ANTICIPATED VOLUMES, in addition  to the  breakeven volume,  to see  what  the effect  of each 									
+			level is going to be.									
+												
+			Unit Sales			30	40	50	57.69	60	70	
+			Selling Price			R 900	R 900	R 900	R 900	R 900	R 900	
+												
+			Projected Sales Value			R 27,000	R 36,000	R 45,000	R 51,921	R 54,000	R 63,000	
+												
+			Direct Cost			R 19,122	R 25,496	R 31,870	R 36,771	R 38,244	R 44,618	
+												
+			Gross Profit			R 7,878	R 10,504	R 13,130	R 15,150	R 15,756	R 18,382	
+												
+			Overhead			R 10,000	R 10,000	R 10,000	R 10,000	R 10,000	R 10,000	
+												
+			Net Profit			-R 2,122	R 504	R 3,130	R 5,150	R 5,756	R 8,382	
+												
+			It  is evident  from  the above  that,  at the  current  PRODUCT GROSS PROFIT,  UNIT SALES of  LESS than 									
+			60 per  month  will  be  suicidal  for  the  business.									
+												
+			For the  sake of  what  we are  trying  to achieve, let  us assume  that  we cannot  see  ourselves selling more 									
+			than 50 UNITS per month. Thanks to the exact  PRODUCT COSTING,  we know  that we are  on a hiding next									
+			to  nothing  should  we  proceed  to  start  selling  the  Product  into  the  market.  So,  what  to  do?									
+												
+	5.4	USING DIRECT COST DATA TO REVIEW OUR PROCESSES										
+												
+			Our  Selling Price is "fixed" at R900,  our Overhead is R10,000 per month  and  we  do  not expect  to sell									
+			more  than  50 units per month,  which  is  not  sufficient  to  get  us  into  a  profit  situation.									
+												
+			This situation has arisen because of 4 factors in our business:									
+												
+			- the SELLING PRICE of R 900;									
+			- the VOLUME anticipated of 50 units per month;									
+			- the OVERHEAD of R10,000 per month and									
+			- the DIRECT COST of R126.76 per Product.									
+												
+			There  is  not much we  can do  about  the FIRST  2 factors;  they  are largely  EXTERNAL  ones. That  is  not									
+			where  we  should  be  focussing  in  the  first  place,  anyway;  our  problem   is  with  OVERHEAD  and  with  									
+			DIRECT COST,  either  ONE  or  BOTH  of  these  factors.									
+- 15 -												
+												
+			Let  us  again  assume,  for  the  sake  of  the  exercise,  that  there  is nothing we  can  do  about the level of									
+			OVERHEAD. What  we  need  to  do  is  address  the  level  of  our  DIRECT COST, in  other  words REVIEW									
+			the  COMPONENTS  of  the  COST   in  order  to  see   whether  we  can   SQUEEZE  OUT  MORE  GROSS 									
+			PROFIT.  It is when  this is  required that an INDIVIDUAL PRODUCT COSTING SYSTEM  really  comes  into									
+			it's  own  to  assist  you  in  making  the  RIGHT ADJUSTMENTS  in  your  business.									
+												
+			Let  us  go  back  to  our  INITIAL STANDARDS  for  LABOUR  and MATERIAL  and  review what  makes up									
+			the  DIRECT COST.									
+												
+		5.4.1	REVIEWING LABOUR STANDARDS AND RATES									
+												
+			PRODUCT :		A  2-SEATER  COUCH							
+												
+				TASK				TASK TIME (mins)			RATE  (per hour)	COST
+				Cut Out Wood				55			R 30.00	R 27.50
+				Cut Out Sponge				20			R 20.00	R 6.67
+				Cut Out Material				35			R 25.00	R 14.58
+				Stitch Material				25			R 30.00	R 12.50
+				Assemble Wood				20			R 35.00	R 11.67
+				Attach Foam				10			R 20.00	R 3.33
+				Cover Material				20			R 25.00	R 8.33
+				Staple Material				5			R 20.00	R 1.67
+				Clean & Check				5			R 40.00	R 3.33
+				LABOUR HOURS				195				R 89.58
+												
+			Each  of  the above  LABOUR STANDARDS  should  be  reviewed  for accuracy. It  may  well  be  that  one or									
+			more of  the STANDARDS for  the TASKS are  TOO HIGH,  in  which  case  they  should  be  adjusted  to the									
+			correct rate. If you are  not  sure, you can do a TIME STUDY  on the  floor for  the  same or  a  similar product									
+			and  adjust  the  STANDARD  accordingly.									
+												
+			You may  well  ask  how  it is possible  that  one  or  more  of your  LABOUR STANDARDS  are  TOO HIGH. 									
+			Any  STANDARD  in  a  business  is  there  to  MEASURE  YOUR  BUSINESS  AGAINST.  Once  set, it also									
+			becomes  the  NORM  for  that  particular  action.  It is  therefore  important that, when setting your standards,									
+			you  set  them  reasonably  TIGHT -  the  idea  about  a  STANDARD  is  that  it  is  something  that you want
+			your staff  to aspire  to. This gives  you the  opportunity  to  "DRIVE"  your  LABOUR  towards the STANDARD
+			on  a  daily basis. Typically, people will  introduce an  INCENTIVE SCHEME  based  on  these  communicated
+			STANDARDS  and  pay  out   PERFORMANCE  BONUSES   for  STANDARDS  achieved.  That  is  the  really
+			exciting  part  of  having  STANDARDS  in  place.  But  more  about  that  later.
+			
+			For  the  moment,  know  that  your  PRODUCT COSTING SYSTEM  will  both  allow  you  and  demand  from 
+			you  a   regular  review   of  STANDARDS,   because   they   are  supposed   to   be  TIGHTER than ACTUAL
+			PERFORMANCE  traditionally. But  be  aware  that  it  is both senseless and dangerous to ADJUST standards
+			merely to make "the numbers work". 
+			
+			Now, For sake of  the example, let us say  that  the  review reveals that the STANDARDS for 3 of the TASKS, 
+			"Cut Out Wood"  (40),   Cut Out Material  (30)  and  Assemble Wood  (15)  need  to  be adjusted. This will
+			reduce  the  TOTAL LABOUR HOURS  to  170 minutes.
+			
+			Let us  further assume  that  a review  of the  LABOUR RATES per TASK  show  that the  applicable  rate for
+			"Cut Out Wood" is R25/hour  and that for  "Stitch Material" is also R25/hour.  This may  be  because you									
+			have found  another  staff  member  who will  in  future  perform  these  TASKS,  possibly  because  you  have 									
+			some  TRAINING  in  the  interim.									
+												
+			Processing these changes will now deliver the following:									
+												
+				TASK				TASK TIME (mins)			RATE  (per hour)	COST
+				Cut Out Wood				40			R 25.00	R 16.67
+				Cut Out Sponge				20			R 20.00	R 6.67
+				Cut Out Material				30			R 25.00	R 12.50
+				Stitch Material				25			R 25.00	R 10.42
+				Assemble Wood				15			R 35.00	R 8.75
+				Attach Foam				10			R 20.00	R 3.33
+				Cover Material				20			R 25.00	R 8.33
+				Staple Material				5			R 20.00	R 1.67
+				Clean & Check				5			R 40.00	R 3.33
+				LABOUR HOURS				170				R 71.67
+- 16 -												
+												
+			The  ADJUSTMENTS  IN  LABOUR  STANDARDS  and  RATES    REDUCES  the  LABOUR  COST  for  the									
+			Product  from  R89.58  to  R71.67.									
+												
+		5.4.2	REVIEWING MATERIAL STANDARDS AND PRICES									
+												
+			The same exercise should now be done for MATERIAL STANDARDS and PRICES.									
+												
+			PRODUCT :		A  2-SEATER  COUCH							
+												
+				MATERIAL TYPE				MATERIAL QUANTITY			PRICE (per unit)	MATERIALCOST
+				Wood				3			R 45.00	R 135.00
+				Sponge				4			R 5.00	R 20.00
+				Material				4			R 120.00	R 480.00
+				Thread				0.5			R 0.50	R 0.25
+				Staples				30			R 0.05	R 1.50
+												R 636.75
+												
+			NOTE  that,  of   the  OVERALL  DIRECT  COST  of  R726.62,  MATERIAL  COST  is  R636.75,  which  may 									
+			promise  substantial   COST   REDUCTION  upon  review.  This  potential  COST  REDUCTION  may  arise as									
+			a result of a number of  factors,  largely  to do  with either  QUANTITY USED  or  PRICE PAID.  The  ACTUAL									
+			QUANTITY  USED  per  Product  may  suddenly  be  LESS  THAN  STANDARD,  because  your  awareness									
+			of  the  standards  have   prompted  you   to   IMPROVE  your  MONITORING  of   MATERIAL  WASTAGE.									
+			Your  awareness  of  the  COST OF MATERIAL  as  part  of  the  TOTAL PRODUCT COST  may  have  even									
+			prompted  you  a  while  back  to   introduce   an   INCENTIVE  SCHEME  for  staff  who  cause  the  LEAST									
+			WASTAGE of MATERIAL.									
+												
+			For  sake  of  the  example,  let  us  assume  that,  upon  review, you  realise that the  "Sponge"  required for									
+			the  Product  is  actually  3 m  and  the  Material  required  is  3.5.									
+												
+			In  doing the  review process,  you also  realise that  you are  currently paying  R35 per m for Wood,  instead									
+			of  the   previous  standard  of  R45-00 per m.  Or  you  manage  to  negotiate  this  price  with  your  supplier									
+			due to the INCREASED OFF-TAKE in the future.									
+												
+			Processing these changes will now deliver the following:									
+												
+			PRODUCT :		A  2-SEATER  COUCH							
+												
+				MATERIAL TYPE				MATERIAL QUANTITY			PRICE (per unit)	MATERIALCOST
+				Wood				3			R 35.00	R 105.00
+				Sponge				3			R 5.00	R 15.00
+				Material				3.5			R 120.00	R 420.00
+				Thread				0.5			R 0.50	R 0.25
+				Staples				30			R 0.05	R 1.50
+												R 541.75
+												
+			The  concluded  review  REDUCES MATERIAL COST  of  the  Product  from  R636.75  to  R541.75.			
+						
+			Based on these changes, it means that your TOTAL DIRECT COST is now as follows:			
+						
+			Direct Labour Cost			R 71.67
+			Direct Material Cost			R 541.75
+			Total Direct Cost			R 613.42
+						
+			At a SELLING PRICE of R900, the GROSS PROFIT of the Product is now R286.58. This amounts to a GP%			
+			of 31.8% compared to the earlier 19.26%.			
+						
+			It also means that our  BREAKEVEN SALES required  has  now  REDUCED  to  R31,447  (R10,000 Overhead			
+			divide  by  31.8%  GP)  in SALES VALUE  and  to  35 SALES UNITS  per  month. 			
+						
+			The in-depth review of your PRODUCT COST, which has been  made possible  and relatively easy by virtue			
+	D TO MAKE		of  your  PRODUCT COSTING SYSTEM,  has   given  you  peace  of  mind  in  taking  on  the  order.  All  you			
+			have  to  do  is  ENSURE  ADHERENCE TO YOUR STANDARDS in the future.									
+- 17 -												
+												
+		5.4.3	REVIEWING OVERHEAD COSTS									
+												
+			Earlier (Section 5.4)  we assumed that  there was  nothing we  could do to our OVERHEAD COST, in order to									
+			illustrate  the  process  of  adjusting  either/or  the  DIRECT LABOUR COST  and/or  the  DIRECT MATERIAL  									
+			COST. However, there will be instances when the OVERHEAD COST may also be adjustable. It is important									
+			to understand that the cost structure of any business is NOT CAST IN STONE and that you may, more often									
+			than not, have to review your OVERHEAD COST.									
+												
+			A review of OVERHEAD COST becomes particularly necessary when a situation such as illustrated in Section									
+			5.3 arises,  i.e.when the analysis of  a product's selling price versus it's cost shows that you simply should not									
+			take on the product or, more importantly, that you CAN ONLY TAKE ON THE PRODUCT IF, AND ONLY IF,									
+			A REVIEW OF STANDARDS AND/OR OVERHEAD COST show that you can.									
+												
+			To REVIEW OVERHEAD COST, do the following:									
+												
+			a) PRINT OUT the detailed OVERHEAD COST of your business, as you captured it initially (CLICK on									
+			    the YES button in the INPUT MENU next to OVERHEAD COST & GENERAL INPUTS)									
+												
+			b) REVIEW each OVERHEAD COST for correctness, considering the following:									
+												
+			    - instances where the particular cost is too low or too high;									
+			    - instances where the cost can be REDUCED due to any STRUCTURAL CHANGES you may be able to									
+			      make in the business, eg. retrenchment of INDIRECT STAFF, reduction in RENTAL, reduction in									
+			      PERSONAL DRAWINGS, review of INSURANCE etc.									
+			    - the DELAY PERIOD for any identified changes to materialise in ACTUAL SAVINGS									
+
+			c) once the review process is complete, CAPTURE the changes to OVERHEAD COST into the OVERHEAD									
+			   COST & GENERAL INPUTS worksheet and RECALCULATE									
+
+			d) Now check the particular PRODUCT COST in terms of changed COST and G.P.									
+
+6.	BUILDING  YOUR  OWN  PRODUCT  COST, USING YOUR FACT MODEL											
+												
+	You are now ready to use your PRODUCT COSTING SYSTEM to build your own  PRODUCT COST.											
+												
+	You will require 6 basic sets of information to complete the set-up process of your Product Costing System. These are:											
+												
+	- the ANNUAL OVERHEAD COST of the business PER EXPENSE ITEM;											
+	- the DIRECT LABOUR TASKS and the LABOUR RATES paid to each individual, either per HOUR, WEEK or MONTH;											
+	- the MATERIAL TYPES and PRICE per UNIT;											
+	- the PRODUCTS you supply, their SELLING PRICES and the ANTICIPATED VOLUME of SALES per month;											
+	- the NUMBER of MINUTES it takes for EACH TASK to be performed for EACH PRODUCT;											
+	- the QUANTITY of EACH MATERIAL required for EACH PRODUCT.											
+												
+	We will deal with each one of these one by one, referring you to each CAPTURING SHEET as we go along.											
+			
+	It is IMPORTANT TO NOTE that this is something you will only do once, i.e. the SET -UP. Once this process is complete,		
+	it will be up to you how often you elect to review and/or change the captured standard data. However, in order to keep your		
+	PRODUCT COST as REAL and as ACCURATE as possible in the future and thus derive MAMIMUM BENEFIT therefrom,		
+	we recommend the following UPDATE routine:		
+			
+	- the ANNUAL OVERHEAD COST : ONCE A YEAR, using your Annual Financial Statements as a basis.		
+	- the DIRECT LABOUR TASKS : whenever there is a change in personnel.		
+	- the DIRECT LABOUR RATES : probably ONCE A YEAR, when the annual wage increases have been completed.		
+	- the MATERIAL TYPES : whenever a new material type is brought into production.		
+	- the MATERIAL PRICES : whenever a new material type is brought into production and whenever a supplier price changes		
+	- the PRODUCTS you supply : whenever a NEW PRODUCT is launched.		
+	- the PRODUCT PRICES : whenever you adjust the price of a product on a permanent basis. 		
+	- the PRODUCT VOLUMES : ONCE A YEAR, when you budget for the new year, you need to ANTICIPATE sales.		
+	- the NUMBER of MINUTES it takes for EACH TASK to be performed for EACH PRODUCT : ONCE A YEAR.		
+	- the QUANTITY of EACH MATERIAL required for EACH PRODUCT : ONCE A YEAR.		
+												
+												
+												
+												
+												
+												
+												
+												
+- 18 -												
+												
+	6.1	CAPTURING OVERHEAD & GENERAL BUSINESS INFO' : MENU ITEM - GENERAL INPUTS										
+												
+		You need to do the following:										
+												
+		- Find a summary of ALL the ANNUAL COST of your business										
+		  This you will normally find from your bookkeeper or from your own records or from your own "gut-feel".										
+			
+		- Separate the above into DIRECT COST and OVERHEAD	
+		  Remember that ALL COST NOT DIRECTLY INVOLVED IN THE PRODUCT is OVERHEAD	
+		  NOTE AGAIN that typically ALL COST except DIRECT LABOUR and MATERIAL will be OVERHEAD.	
+			
+		- Capture these COSTS next to the RELEVANT COST ITEM in the OVERHEAD COST INPUT (Section C)	
+			
+		- When complete, also CAPTURE the following, also in the GENERAL INPUTS sheet:	
+			
+			- Section A : the NAME OF YOUR BUSINESS
+			- Section B : the NUMBER of the MONTH your FINANCIAL YEAR ends. If you are not sure, enter 2
+			- Section D : the HOURS that your business is open PER DAY and the NUMBER of LEAVE DAYS / year
+			- Section E : the INCREASES (%) you expect for each item NEXT year and the year AFTER THAT
+			- Section F : your  BANK BALANCE  at  the  START of the PERIOD,  the  NUMBER of DAYS  you normally
+			                   wait for  your  DEBTORS  to  pay  you  and  the  NUMBER  of  DAYS  you  wait  to  pay  your
+			                   CREDITORS.
+												
+		WHEN YOU ARE DONE, YOU ARE DONE WITH THE FIRST SECTION. IF YOU HAVE'NT DONE SO YET, SAVE.										
+												
+	6.2	CAPTURING PRODUCT DATA : MENU ITEM - PRODUCT TYPES INPUT										
+												
+		You need to enter the following data relating to your PRODUCTS:										
+												
+		- The CODE of each PRODUCT: This could either be an INTERNAL CODE you yourself allocated or a CODE 										
+		  allocated by a SPECIFIC CUSTOMER										
+		- The NAME of each PRODUCT: You want to allocate a name which would assist you in identifying each Product easily										
+		- The SELLING PRICE of the PRODUCT : This is your STANDARD Price. If you charge different prices to different										
+		  customers, you should rather move to a standard price, with different discounts for different customers.										
+		- The PROJECTED (ANTICIPATED) VOLUMES of SALES for each PRODUCT over the NEXT 12 MONTH period.										
+												
+		NOTE  that one of the strong features of  your  Product Costing System  is  to  allow you  to do  budgeting,  cash flow 										
+		projections, determine  labour  and  material requirements and  even  submissions to  institutions  for  possible  future										
+		financing  needs.  The  model  thus  provides   a  FUTURE-VIEW,  based  on  CURRENT  and  PAST  STANDARDS.										
+												
+		WHEN YOU ARE DONE, SAVE.										
+												
+	6.3	CAPTURING LABOUR / PAYROLL DATA : MENU ITEM - PAYROLL INPUT										
+												
+		You need to enter the following data relating to your DIRECT STAFF:										
+												
+		- The NAME of each EMPLOYEE										
+		- The JOB TITLE of each EMPLOYEE										
+		- The Hourly, Weekly or Monthly WAGE RATE you pay each EMPLOYEE, whichever you know best.										
+		- The MONTHLY COST to YOU of EACH BENEFIT you pay on behalf of EACH EMPLOYEE										
+												
+		WHEN YOU ARE DONE, SAVE.										
+												
+		NOTE: These are one of the Worksheets we suggest you PRINT OUT and keep handy.										
+												
+	6.4	LINKING EMPLOYEES TO EACH OPERATIONAL TASK: MENU ITEM - OPERATIONAL TASKS										
+												
+		In this worksheet, you need to do 2 things:										
+
+		1. Enter all the OPERATIONAL TASKS on your Production floor, for instance, Saw Wood or Mould Cup. You must list										
+		    all of these below each other. NOTE: If you do not know them all, it does not matter, as you will be ADDING SOME										
+		    anyway as you go along.										
+
+		2. Use  the  PRINTOUT  of  your  PAYROLL,  suggested  in  6.3,  to  ALLOCATE  each  EMPLOYEE  to  a  specific										
+		    OPERATIONAL TASK.  You  do  this  by  capturing  the  relevant  EMPLOYEE NUMBER  next  to  each  TASK.										
+
+		NOTE: Where MORE THAN ONE EMPLOYEE may perform a specific task, you allocate the employee who										
+			gets paid the HIGHEST RATE									
+- 19 -												
+
+	6.5	CAPTURING LABOUR STANDARDS DATA : MENU ITEM - LABOUR STANDARDS INPUT										
+												
+		IMPORTANT NOTE BEFORE CONTINUING:										
+												
+		By capturing all the preceding information, you have populated the entire System. In other words, when you soon 										
+		proceed to the Labour Standards Input sheet, you will not have to recapture any of the relevant headings again. These										
+		headings (for Product, Task Name etc) is now automatically populated.										
+												
+		The above means that, you need to ONLY enter the following data relating to your LABOUR STANDARDS:										
+												
+		- the STANDARD TIME (in minutes) for EACH TASK related to EACH PRODUCT.										
+												
+		PLEASE NOTE THE FOLLOWING:										
+												
+		1. Work from LEFT to RIGHT per PRODUCT, asking yourself:										
+		    a) does this Task APPLY to this Product or does this Task need to be PERFORMED in order to produce this										
+		        Product?										
+		    b) if the answer is NO, you leave the cell BLANK and continue to the next cell;										
+		    c) if the answer is YES, you need to ask yourself HOW MANY MINUTES it NORMALLY takes to perform this										
+		        Task in making this Product. That value is entered into the cell.										
+												
+		2. Complete the cells for EACH TASK, for EACH PRODUCT.										
+												
+		WHEN YOU ARE DONE, SAVE.										
+												
+	6.6	CAPTURING MATERIAL DATA : MENU ITEM - MATERIALS TYPES INPUT										
+												
+		You need to enter the following data relating to your DIRECT MATERIALS:										
+												
+		- The NAME of each MATERIAL ITEM										
+		- The PRICE per UNIT for each MATERIAL ITEM										
+												
+		NOTE : Although the UNIT OF MEASURE is optional (for example, "m" for metre or "sq m" for square metre, we										
+		recommend you enter it, as it will appear throughout the rest of the system and is a handy tool.										
+												
+		WHEN YOU ARE DONE, SAVE.										
+
+
+	6.7	CAPTURING MATERIAL STANDARDS DATA : MENU ITEM - MATERIAL STANDARDS INPUT										
+												
+		NOTE AGAIN before you start that the System has automatically updated all your Product Names and 										
+		Material Names and Units of Measure. You only need to capture your Material Standards per Product.										
+												
+		The above means that, you need to ONLY enter the following data relating to your MATERIAL STANDARDS:										
+												
+		- the STANDARD AMOUNT OF MATERIAL (in the relevant Unit of Measure) for EACH MATERIAL related to										
+		  EACH PRODUCT, eg if the Product takes 2 metres of cloth, you enter 2 NEXT to the Product and BELOW										
+		  the Heading "Cloth".										
+		
+		PLEASE NOTE THE FOLLOWING:
+		
+		1. Work from LEFT to RIGHT per PRODUCT, asking yourself:
+		    a) does this Material Item GO INTO this Product
+		    b) if the answer is NO, you leave the cell BLANK and continue to the next cell;
+		    c) if the answer is YES, you need to ask yourself HOW MANY UNITS of the MATERIAL NORMALLY goes into
+		        the Product. That value is entered into the cell.
+		
+		2. Complete the cells for EACH MATERIAL ITEM, for EACH PRODUCT.
+		
+		WHEN YOU ARE DONE, SAVE.
+		
+		YOUR INPUTS ARE NOW COMPLETE. YOU MAY NOW LOOK AT THE RESULTS OF WHAT YOU HAVE
+		CAPTURED AND HOW THE SYSTEM HAS USED THE DATA TO PROVIDE YOU WITH THE FOLLOWING:
+
+		NOTE :	ALL THIS INFORMATION IS AVAILABLE BY GOING TO THE OUTPUTS MENU									
+												
+												
+												
+- 20 -												
+												
+		A.	Overall Product Cost & G.P's per individual Product									
+		B.	Direct Labour Cost per individual Product									
+		C.	Direct Labour Standards per individual Product (in Hours)									
+		D.	Direct Labour Standards per individual Product (in Minutes)									
+		E.	Direct Labour Efficiencies per individual Product, per Operational Task									
+		F.	Direct Material Cost per individual Product									
+		G.	Direct Material Standards per individual Product									
+		H.	Overhead Cost breakdown									
+		I.	Labour Requirements per Month per Product (in Units)									
+		J.	Labour Requirements per Month per Task (in Units)									
+		K.	Material Requirements per Month (in Units)									
+		L.	Labour Costs per Month									
+		M.	Material Costs per Month									
+		N.	Labour Costs per Year									
+		O.	Material Costs per Year									
+		P.	Labour Requirements per Year per Task (in Units)									
+		Q.	Material Requirements per Year (in Units)									
+
+		NOTE:	All of your Inputs will also combine to provide you with an easy-to-use ORDER QUOTING system									
+
+			To access the above, go to the QUOTES MENU and use the HELP function									
+
+
+7.		CAPTURING ACTUAL PRODUCTION DATA										
+
+		A  Product  Costing  system  is  usually  based on  STANDARDS,  i.e.  LABOUR  and  MATERIAL  STANDARDS  at 										
+		STANDARD RATES  and  PRICES. However,  it also useful to build up your own HISTORY of PRODUCTS, especially										
+		if  your  business  experiences  frequent  REPEAT  ORDERS.  Not  only does  it provide  a  USEFUL BACKUP to the										
+		COST of PRODUCT  and  it's GROSS PROFIT  derived  from your STANDARDS, but  it will very often SPEED UP the										
+		CHECKING of an ORDER.										
+
+		MORE IMPORTANTLY, it will enable you to measure your ACTUAL HOURS used against WHAT YOUR										
+		STANDARDS say YOU SHOULD HAVE USED. The result of this comparison is your LABOUR EFFICIENCY or										
+		UTILIZATION.										
+
+		Among other things, knowing this (PER OPERATIONAL TASK) will mean you could:										
+
+		1.	Address Labour Inefficiency per Task or per Department									
+		2.	Cost your Products more accurately by considering the Labour Inefficiency									
+		3.	Implement a Performance-based Incentive scheme based on your Production performance against standard.									
+
+	7.1	RECORDING ACTUAL PRODUCTION FIGURES										
+
+		Production  performance is  based on  two measurements; the OUTPUT per product and the TIME it took to produce.
+		A simple JOB CARD SYSTEM  will do  this  measurement  for  you,  whereafter  the  information  generated  from  the
+		system can be entered into  the FACT Model. The system should be card-based (a card is written out for each Product
+		and attached to the Product until it leaves Despatch. The card should reflect the following:
+
+		a) Product Name and/or Code
+		b) Column 1 heading : Name of Employee
+		c) Column 2 heading : Operational Task
+		d) Column 3 heading : Time Started with Operational Task
+		e) Column 4 heading : Time Ended with Operational Task
+		f) Column 5 heading : Time Expended for each Operational Task
+
+		The Admin Office will issue a Job Card with the Product Name and/or Code at the top when the Product commences
+		Production. The Employee completes Columns 1 to 4 throughout the Production process. The Admin Office receives
+		back the Job Card at the end of the Production process, casts the different times for each Task and TOTALS the
+		Job Card.										
+
+		NOTE: If you have difficulty with the introduction of an effective Job Card system, we can assist you with it.										
+
+
+
+
+
+
+
+- 21 -												
+
+	7.2	CAPTURING ACTUAL PRODUCTION HISTORY										
+
+		GO TO the INPUT MENU and CLICK on ACTUAL PRODUCTION INPUT										
+
+		You will notice that all your PRODUCTS are again listed, as are your different OPERATIONAL TASKS across the top.	
+		Note that the Worksheet is set up to accept MINUTES per TASK performed.	
+
+		Process:	
+
+		1.	Take each Job Card and capture the MINUTES used for EACH TASK next to the relevant Product.
+		2.	If there is more than one Product completed, capture the MOST MINUTES for each task.
+		3.	You can now COMPARE the ACTUAL TIME used for a Product to the Standard time that should have been
+			used
